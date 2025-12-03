@@ -17,6 +17,7 @@ A Model Context Protocol (MCP) server for controlling Lyngdorf Audio devices (TD
 
 ## Supported Devices
 
+** Only TDAI-1120 has been confirmed working **
 - **TDAI Series**: 1120, 2170, 3400 (Integrated Amplifiers)
 - **MP Series**: 40, 50, 60 (Processors)
 - **CD Series**: CD-1 (CD Player)
