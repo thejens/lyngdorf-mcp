@@ -8,6 +8,7 @@ export interface LyngdorfDevice {
   ip: string;
   hostname: string;
   port: number;
+  name?: string; // Custom device name (e.g., "Stereo", "Living Room")
 }
 
 export interface DeviceStatus {

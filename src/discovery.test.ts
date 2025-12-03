@@ -14,6 +14,7 @@ describe('LyngdorfDiscovery', () => {
       expect((discovery as any).extractModel('TDAI-2170.local')).toBe('TDAI-2170');
       expect((discovery as any).extractModel('TDAI-3400.local')).toBe('TDAI-3400');
       expect((discovery as any).extractModel('tdai-1120.local')).toBe('TDAI-1120');
+      expect((discovery as any).extractModel('tdai1120.local')).toBe('TDAI-1120');
     });
 
     it('extracts MP models from hostname', () => {
@@ -21,11 +22,13 @@ describe('LyngdorfDiscovery', () => {
       expect((discovery as any).extractModel('MP-50.local')).toBe('MP-50');
       expect((discovery as any).extractModel('MP-60.local')).toBe('MP-60');
       expect((discovery as any).extractModel('mp-50.local')).toBe('MP-50');
+      expect((discovery as any).extractModel('mp50.local')).toBe('MP-50');
     });
 
     it('extracts CD models from hostname', () => {
       expect((discovery as any).extractModel('CD-1.local')).toBe('CD-1');
       expect((discovery as any).extractModel('cd-1.local')).toBe('CD-1');
+      expect((discovery as any).extractModel('cd1.local')).toBe('CD-1');
     });
 
     it('returns Unknown for unrecognized models', () => {
@@ -37,6 +40,7 @@ describe('LyngdorfDiscovery', () => {
     it('handles hostnames without .local suffix', () => {
       expect((discovery as any).extractModel('TDAI-1120')).toBe('TDAI-1120');
       expect((discovery as any).extractModel('MP-60')).toBe('MP-60');
+      expect((discovery as any).extractModel('tdai1120')).toBe('TDAI-1120');
     });
   });
 
