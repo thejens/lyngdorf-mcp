@@ -26,7 +26,6 @@
   "license": "MIT",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.4",
-    "node-dns-sd": "^0.4.1",
     "zod": "^3.25.1"
   },
   "devDependencies": {

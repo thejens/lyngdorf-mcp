@@ -286,8 +286,8 @@ lyngdorf-mcp/
 
 - `@modelcontextprotocol/sdk` - MCP framework
 - `zod` - Runtime validation
-- `node-dns-sd` - Pure JS mDNS discovery
 - Node.js `net` module - TCP communication
+- macOS `dns-sd` command - mDNS discovery
 
 ## Development
 
