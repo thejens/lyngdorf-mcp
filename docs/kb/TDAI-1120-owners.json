@@ -1,0 +1,1070 @@
+{
+  "model": "TDAI-1120",
+  "manual_type": "owners",
+  "total_pages": 31,
+  "toc": [
+    {
+      "title": "WELCOME",
+      "page": 3
+    },
+    {
+      "title": "COMPLIANCE",
+      "page": 3
+    },
+    {
+      "title": "WHAT IS IN THE BOX",
+      "page": 4
+    },
+    {
+      "title": "BACK PANEL GUIDE",
+      "page": 5
+    },
+    {
+      "title": "FRONT PANEL GUIDE",
+      "page": 6
+    },
+    {
+      "title": "HOW TO GET STARTED",
+      "page": 7
+    },
+    {
+      "title": "CONNECTING SPEAKERS",
+      "page": 7
+    },
+    {
+      "title": "CONNECTING A SUBWOOFER",
+      "page": 8
+    },
+    {
+      "title": "TURNING ON THE TDAI-1120 FOR THE FIRST TIME",
+      "page": 10
+    },
+    {
+      "title": "HOW TO USE THE TDAI-1120",
+      "page": 12
+    },
+    {
+      "title": "LYNGDORF REMOTE APP",
+      "page": 13
+    },
+    {
+      "title": "TDAI-1120 SETUP PAGE",
+      "page": 14
+    },
+    {
+      "title": "FINALIZING THE SETUP",
+      "page": 15
+    },
+    {
+      "title": "SETUP MENU",
+      "page": 17
+    },
+    {
+      "title": "INPUT SETUP",
+      "page": 17
+    },
+    {
+      "title": "OUTPUT SETUP",
+      "page": 18
+    },
+    {
+      "title": "ROOMPERFECT\u2122 SETUP",
+      "page": 22
+    },
+    {
+      "title": "VOICING SETUP",
+      "page": 25
+    },
+    {
+      "title": "AUDIO SETUP",
+      "page": 25
+    },
+    {
+      "title": "HDMI SETUP",
+      "page": 26
+    },
+    {
+      "title": "STREAMING SETUP",
+      "page": 26
+    },
+    {
+      "title": "GENERAL SETUP",
+      "page": 28
+    },
+    {
+      "title": "MANAGE SOFTWARE",
+      "page": 28
+    },
+    {
+      "title": "CLEANING AND MAINTENANCE",
+      "page": 30
+    },
+    {
+      "title": "CONTROL MANUAL",
+      "page": 30
+    },
+    {
+      "title": "TECHNICAL ASSISTANCE",
+      "page": 30
+    }
+  ],
+  "chapters": [
+    {
+      "title": "FORSIDE",
+      "start_page": 1
+    },
+    {
+      "title": "RoomPerfect\u2122 microphone",
+      "start_page": 4
+    },
+    {
+      "title": "Front panel guide",
+      "start_page": 6
+    },
+    {
+      "title": "1. LYNGDORF logo",
+      "start_page": 6
+    },
+    {
+      "title": "3. Bluetooth indicator",
+      "start_page": 6
+    },
+    {
+      "title": "5. RoomPerfect\u2122 indicator",
+      "start_page": 6
+    },
+    {
+      "title": "7. Volume wheel",
+      "start_page": 7
+    },
+    {
+      "title": "8. Standby button",
+      "start_page": 7
+    },
+    {
+      "title": "ANALOG",
+      "start_page": 7
+    },
+    {
+      "title": "INPUT",
+      "start_page": 7
+    },
+    {
+      "title": "OUTPUT",
+      "start_page": 7
+    },
+    {
+      "title": "INPUT",
+      "start_page": 7
+    },
+    {
+      "title": "OUTPUT",
+      "start_page": 7
+    },
+    {
+      "title": "MICROPHONE",
+      "start_page": 7
+    },
+    {
+      "title": "RIGHT",
+      "start_page": 7
+    },
+    {
+      "title": "LEFT",
+      "start_page": 7
+    },
+    {
+      "title": "DIGITAL",
+      "start_page": 7
+    },
+    {
+      "title": "TRIGGER",
+      "start_page": 7
+    },
+    {
+      "title": "TRIGGER",
+      "start_page": 7
+    },
+    {
+      "title": "UPDATE",
+      "start_page": 7
+    },
+    {
+      "title": "USB AUDIO IN",
+      "start_page": 7
+    },
+    {
+      "title": "USB MODULE",
+      "start_page": 7
+    },
+    {
+      "title": "ANALOG AUDIO MODULE",
+      "start_page": 7
+    },
+    {
+      "title": "HDMI MODULE",
+      "start_page": 7
+    },
+    {
+      "title": "INPUT",
+      "start_page": 7
+    },
+    {
+      "title": "OUTPUT",
+      "start_page": 7
+    },
+    {
+      "title": "Speaker placement with RoomPerfect\u2122",
+      "start_page": 8
+    },
+    {
+      "title": "ANALOG",
+      "start_page": 8
+    },
+    {
+      "title": "INPUT",
+      "start_page": 8
+    },
+    {
+      "title": "OUTPUT",
+      "start_page": 8
+    },
+    {
+      "title": "INPUT",
+      "start_page": 8
+    },
+    {
+      "title": "OUTPUT",
+      "start_page": 8
+    },
+    {
+      "title": "MICROPHONE",
+      "start_page": 8
+    },
+    {
+      "title": "RIGHT",
+      "start_page": 8
+    },
+    {
+      "title": "LEFT",
+      "start_page": 8
+    },
+    {
+      "title": "DIGITAL",
+      "start_page": 8
+    },
+    {
+      "title": "TRIGGER",
+      "start_page": 8
+    },
+    {
+      "title": "TRIGGER",
+      "start_page": 8
+    },
+    {
+      "title": "UPDATE",
+      "start_page": 8
+    },
+    {
+      "title": "USB AUDIO IN",
+      "start_page": 8
+    },
+    {
+      "title": "USB MODULE",
+      "start_page": 8
+    },
+    {
+      "title": "ANALOG AUDIO MODULE",
+      "start_page": 8
+    },
+    {
+      "title": "HDMI MODULE",
+      "start_page": 8
+    },
+    {
+      "title": "INPUT",
+      "start_page": 8
+    },
+    {
+      "title": "OUTPUT",
+      "start_page": 8
+    },
+    {
+      "title": "ANALOG",
+      "start_page": 8
+    },
+    {
+      "title": "INPUT",
+      "start_page": 8
+    },
+    {
+      "title": "OUTPUT",
+      "start_page": 8
+    },
+    {
+      "title": "Subwoofer controls  (not Lyngdorf type):",
+      "start_page": 9
+    },
+    {
+      "title": "operation.",
+      "start_page": 10
+    },
+    {
+      "title": "accessing the setup.",
+      "start_page": 13
+    },
+    {
+      "title": "TDAI-1120 setup page",
+      "start_page": 14
+    },
+    {
+      "title": "Finalizing the setup",
+      "start_page": 15
+    },
+    {
+      "title": "Setup menu",
+      "start_page": 17
+    },
+    {
+      "title": "Input setup",
+      "start_page": 17
+    },
+    {
+      "title": "Voicing:",
+      "start_page": 17
+    },
+    {
+      "title": "Output setup",
+      "start_page": 18
+    },
+    {
+      "title": "RoomPerfect\u2122 setup",
+      "start_page": 22
+    },
+    {
+      "title": "RoomPerfect\u2122 guide",
+      "start_page": 22
+    },
+    {
+      "title": "RoomPerfect\u2122 troubleshooting",
+      "start_page": 24
+    },
+    {
+      "title": "Voicing setup",
+      "start_page": 25
+    },
+    {
+      "title": "Audio setup",
+      "start_page": 25
+    },
+    {
+      "title": "HDMI setup",
+      "start_page": 26
+    },
+    {
+      "title": "Streaming setup",
+      "start_page": 26
+    },
+    {
+      "title": "setups.",
+      "start_page": 26
+    },
+    {
+      "title": "General setup",
+      "start_page": 28
+    },
+    {
+      "title": "Remote control (optional accessory):",
+      "start_page": 28
+    }
+  ],
+  "sections": {
+    "setup": {
+      "title": "Setup & Installation",
+      "chapters": [
+        {
+          "title": "accessing the setup.",
+          "start_page": 13,
+          "content": "Under General Settings you can select the use of large album art,\nwhich then will replace the volume wheel in the interface.\nVolume can still be controlled using the volume control of the device.\nIf you are using your device as media player, you can choose to block\nyour device from closing when the Remote App is active.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nThe next icon will open the interface for streaming music and the top\nright icon will turn the amplifier on or off.\nUsing the vTuner men"
+        },
+        {
+          "title": "TDAI-1120 setup page",
+          "start_page": 14,
+          "content": "on your network:\ntdai1120.local.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\n"
+        },
+        {
+          "title": "Finalizing the setup",
+          "start_page": 15,
+          "content": "calibration to enjoy everything the TDAI-1120 can offer.\nselected input and formats and you can control the volume setting\nThe Setup section will be described in the following pages.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nperformance). You will be able to see the type and quality of the audio signal received.\nThe lower section is dedicated to the adjustment of sound, Balance, Bass and Treble. These work as\ntraditional controls. For Bass and Treble you can not only adjust the levels but can al"
+        },
+        {
+          "title": "Setup menu",
+          "start_page": 17,
+          "content": ""
+        },
+        {
+          "title": "Input setup",
+          "start_page": 17,
+          "content": "Input name:\nChanges the name of the selected input.\nNote: To remove all text after the blinking marker, press and hold the \u201cDown\u201d button.\nSensitivity:\nEnables you to match input levels from different sources. Can be adjusted up to +24dB.\n"
+        },
+        {
+          "title": "Output setup",
+          "start_page": 18,
+          "content": "adjust the setup, you will learn in this section how to set up your system before performing the\ndedicated filters to optimize the performance of Lyngdorf speakers and boundary woofers.\nCustom Sub will open for your use of any subwoofer design \u2013 Advanced will open ALL settings.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nNote: If you change anything in the output settings of the speakers and subwoofers, you\nmust do a new RoomPerfect\u2122 calibration.\nIf you have a perfect speaker setup with two speake"
+        },
+        {
+          "title": "RoomPerfect\u2122 setup",
+          "start_page": 22,
+          "content": "speaker sound. When a calibration is being performed, the RoomPerfectTM Icon will be blink.\n"
+        },
+        {
+          "title": "Voicing setup",
+          "start_page": 25,
+          "content": "more bass \u2013 everything is available. See separate manual for designing your own Voicings.\n"
+        },
+        {
+          "title": "Audio setup",
+          "start_page": 25,
+          "content": "This section allows you to activate the following settings:\nfrom high compression and too high levels to improve the appeal when played on the radio.\nShow RoomPerfect\u2122 bypass will allow you to test and demonstrate the effect of the calibration.\nto have this filter activated in order to not transmit vibrations to the pick-up cartridge.\na maximum limit to how loud the TDAI-1120 may play.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\n"
+        },
+        {
+          "title": "HDMI setup",
+          "start_page": 26,
+          "content": "playback device. The connection exchanges information as to available types of data against what the\nplayback devices will accept.\nCEC (Consumer Electronics Control) is an HDMI feature designed to allow commands to be sent from one\nsetting of the TDAI-1120 by using the remote control of the TV.\nFunctions may be reduced to support your own products and may not include full support of CEC codes.\nEnable CEC will activate the function and allow your TV to connect to the TDAI-1120.\nNote: You need to "
+        },
+        {
+          "title": "Streaming setup",
+          "start_page": 26,
+          "content": "The TDAI-1120 supports a variety of media streaming services.\n"
+        },
+        {
+          "title": "setups.",
+          "start_page": 26,
+          "content": "TDAI-1120. These options control the volume setting, change inputs and turn the unit on.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nChromecast built-in\u2122\nright to your speakers. Easily control your speakers with apps you already know and love from your\niPhone\u00ae, iPad\u00ae, Android phone or tablet, Mac\u00ae or Windows\u00ae laptop, or Chromebook\nPlease use your Google Home application to accept Google Terms of Service and Google Privacy Policy\nhttps://policies.google.com/privacy?hl=en.\nSpotify Connect\nlicenses.\n"
+        },
+        {
+          "title": "General setup",
+          "start_page": 28,
+          "content": "Power Management determines the stand-by setting of the TDAI-1120:\nDeep Sleep (default) uses the lowest possible power consumption\nNetwork Standby will keep the TDAI-1120 alert, and it will react to commands over the networks\nAuto off delay sets the idle time required for automatic shut-down of the amplifier.\nupon receiving a signal. Amp. Power Mode will start the TDAI-1120 on the input last used.\nNote: If the TDAI-1120 has been switched to another input, the trigger command from the\nsource conn"
+        }
+      ]
+    },
+    "features": {
+      "title": "Features & Operation",
+      "chapters": [
+        {
+          "title": "FORSIDE",
+          "start_page": 1,
+          "content": "Lyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nContents\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nWelcome\nCongratulations on your purchase of the Lyngdorf Audio TDAI-1120 fully digital amplifier with Room-\nexceed your expectations. We thank you for placing your confidence in Lyngdorf Audio.\nused in Lyngdorf Audio products, please visit www.lyngdorf.com.\nCompliance\nWEEE, The European Parliament and the Council of the European Union have issued the Waste Electrical\nand the accessories packed with them "
+        },
+        {
+          "title": "Front panel guide",
+          "start_page": 6,
+          "content": ""
+        },
+        {
+          "title": "1. LYNGDORF logo",
+          "start_page": 6,
+          "content": "Constant dimmed light = standby mode\nConstant bright light = power \u201cON\u201d mode\nsituations user operation is not possible)\nNo light = power \u201cOFF\u201d mode\n2. Display indicators for the selected input. All LEDs flash during factory reset.\n"
+        },
+        {
+          "title": "3. Bluetooth indicator",
+          "start_page": 6,
+          "content": "Constant light = connection with Bluetooth\nFlashing light = Bluetooth parring mode\nNo light = Bluetooth not connected\n4. Wi-Fi indicator\nConstant light = connected to Wi-Fi\nNo light = Wi-Fi turned off\nFlashing once per second = in Apple \u201cWAC mode\u201d\nFlashing multiple times per second = in \u201cWPS mode\u201d\n"
+        },
+        {
+          "title": "7. Volume wheel",
+          "start_page": 7,
+          "content": "Adjust the volume with left or right rotation. Light indicator for volume setting.\n"
+        },
+        {
+          "title": "8. Standby button",
+          "start_page": 7,
+          "content": "Short press to turn the TDAI-1120 on or into standby mode\nPress and hold for more than five seconds to initiate factory reset. If held for more than ten the\nprocedure is aborted.\nNote: See more about Wi-Fi setup in the section \u201cTurning on the TDAI-1120 for the first time.\u201d\nHow to get started\nfaster network connection than Wi-Fi.\nstreaming options available through Bluetooth or your network.\nConnecting speakers\nWhen connecting the speakers, always connect + and - from the\namplifier to the corresp"
+        },
+        {
+          "title": "ANALOG",
+          "start_page": 7,
+          "content": ""
+        },
+        {
+          "title": "INPUT",
+          "start_page": 7,
+          "content": ""
+        },
+        {
+          "title": "OUTPUT",
+          "start_page": 7,
+          "content": ""
+        },
+        {
+          "title": "INPUT",
+          "start_page": 7,
+          "content": ""
+        },
+        {
+          "title": "OUTPUT",
+          "start_page": 7,
+          "content": ""
+        },
+        {
+          "title": "MICROPHONE",
+          "start_page": 7,
+          "content": ""
+        },
+        {
+          "title": "RIGHT",
+          "start_page": 7,
+          "content": "0,1\u0003\u0017\u020d\nCLASS 2 WIRING\n"
+        },
+        {
+          "title": "LEFT",
+          "start_page": 7,
+          "content": ""
+        },
+        {
+          "title": "DIGITAL",
+          "start_page": 7,
+          "content": "RS232\n"
+        },
+        {
+          "title": "TRIGGER",
+          "start_page": 7,
+          "content": ""
+        },
+        {
+          "title": "TRIGGER",
+          "start_page": 7,
+          "content": "OUT\n"
+        },
+        {
+          "title": "UPDATE",
+          "start_page": 7,
+          "content": "TDAI 2170\n"
+        },
+        {
+          "title": "USB AUDIO IN",
+          "start_page": 7,
+          "content": ""
+        },
+        {
+          "title": "USB MODULE",
+          "start_page": 7,
+          "content": ""
+        },
+        {
+          "title": "ANALOG AUDIO MODULE",
+          "start_page": 7,
+          "content": "A6 RIGHT\nA6 LEFT\n"
+        },
+        {
+          "title": "HDMI MODULE",
+          "start_page": 7,
+          "content": "HDMI 1\nHDMI 3\nHDMI 2\nHDMI 4\nOUT\n"
+        },
+        {
+          "title": "INPUT",
+          "start_page": 7,
+          "content": ""
+        },
+        {
+          "title": "OUTPUT",
+          "start_page": 7,
+          "content": "Lyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\n"
+        },
+        {
+          "title": "ANALOG",
+          "start_page": 8,
+          "content": ""
+        },
+        {
+          "title": "INPUT",
+          "start_page": 8,
+          "content": ""
+        },
+        {
+          "title": "OUTPUT",
+          "start_page": 8,
+          "content": ""
+        },
+        {
+          "title": "INPUT",
+          "start_page": 8,
+          "content": ""
+        },
+        {
+          "title": "OUTPUT",
+          "start_page": 8,
+          "content": ""
+        },
+        {
+          "title": "MICROPHONE",
+          "start_page": 8,
+          "content": ""
+        },
+        {
+          "title": "RIGHT",
+          "start_page": 8,
+          "content": "0,1\u0003\u0017\u020d\nCLASS 2 WIRING\n"
+        },
+        {
+          "title": "LEFT",
+          "start_page": 8,
+          "content": ""
+        },
+        {
+          "title": "DIGITAL",
+          "start_page": 8,
+          "content": "RS232\n"
+        },
+        {
+          "title": "TRIGGER",
+          "start_page": 8,
+          "content": ""
+        },
+        {
+          "title": "TRIGGER",
+          "start_page": 8,
+          "content": "OUT\n"
+        },
+        {
+          "title": "UPDATE",
+          "start_page": 8,
+          "content": "100-240 V ~ 50/60Hz 80W\nDesigned and manufactured in\nDenmark by SL Audio A/S\nwww.lyngdorf.com\nTDAI 2170\nAvertissement: Pour r\u00e9duire le\nrisque d'incendie et de d\u00e9charge\n\u00e9lectrique l'appareil ne doit pas\n\u00eatre expos\u00e9 \u00e0 l'eau ou \u00e0 l'humidit\u00e9\nWarning. To reduce the risk of fire\nor electric shock, do not expose\nthis apparatus to rain or moisture\nAudio Equipment\n3YZ9\n"
+        },
+        {
+          "title": "USB AUDIO IN",
+          "start_page": 8,
+          "content": ""
+        },
+        {
+          "title": "USB MODULE",
+          "start_page": 8,
+          "content": ""
+        },
+        {
+          "title": "ANALOG AUDIO MODULE",
+          "start_page": 8,
+          "content": "A6 RIGHT\nA6 LEFT\n"
+        },
+        {
+          "title": "HDMI MODULE",
+          "start_page": 8,
+          "content": "HDMI 1\nHDMI 3\nHDMI 2\nHDMI 4\nOUT\n"
+        },
+        {
+          "title": "INPUT",
+          "start_page": 8,
+          "content": ""
+        },
+        {
+          "title": "OUTPUT",
+          "start_page": 8,
+          "content": ""
+        },
+        {
+          "title": "ANALOG",
+          "start_page": 8,
+          "content": ""
+        },
+        {
+          "title": "INPUT",
+          "start_page": 8,
+          "content": ""
+        },
+        {
+          "title": "OUTPUT",
+          "start_page": 8,
+          "content": "Phase\nCut-off\n180\n200\nLevel\n100\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\n"
+        },
+        {
+          "title": "Subwoofer controls  (not Lyngdorf type):",
+          "start_page": 9,
+          "content": "1. Phase adjustment should be 0\u00b0.\n2. The subwoofer cut-off frequency should be set to the highest possible frequency range.\n3. Level should be set to 50% of the maximum.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nTurning on the TDAI-1120 for the first time\n"
+        },
+        {
+          "title": "operation.",
+          "start_page": 10,
+          "content": "Network connection by cable (recommended)\nRemote Application for IOS and Android\u2122 devices, and you can stream to the TDAI-1120 from your music\napplications. (See page 13, Lyngdorf Remote application.)\nEstablishing Wi-Fi connection\nfunctionality or by using the manual WPS functionality on routers.\nWi-Fi procedure with iPhone or iPad (active immediately upon turning on)\n1. Press and hold the \u201cSource/Mute\u201d button for five seconds.\nWi-Fi section (under \u201cSet new Airplay speaker\u201d) under Settings.\n1120"
+        },
+        {
+          "title": "Voicing:",
+          "start_page": 17,
+          "content": "your gaming console audio, for example, set that voicing here.\nEnable theater mode:\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nWarning: This feature bypasses the volume control!\nDo not test this setting with a CD player or similar unregulated signal!\npower and calibrate the front speakers and/or subwoofer. Connect your home theater processor to the\nselected input.\nWhen selecting other inputs, the amplifier returns to the last current volume.\nInput delay:\ndelay time to ensure that the video and au"
+        },
+        {
+          "title": "Remote control (optional accessory):",
+          "start_page": 28,
+          "content": "affecting the TDAI-1120.\nwhich will turn off the display with a little delay after each operation.\nManage software\nBackup\namplifier to this specific setup at a later date.\nRestore\nIf a backup file is available on USB, you can select and load it.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nFactory reset:\nRestores the system to the default factory settings.\nWarning: All user preference settings, system data, and RoomPerfect\u2122 data are lost\nwhen restoring to default settings!\nDownload system log\nampli"
+        }
+      ]
+    },
+    "roomperfect": {
+      "title": "RoomPerfect",
+      "chapters": [
+        {
+          "title": "RoomPerfect\u2122 microphone",
+          "start_page": 4,
+          "content": "Microphone stand\nyou will need an HDMI cable.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nBack panel guide\n1. A1/PHONO MM: Connects directly to turntables/gramophones with high output cartridges (MM: Moving\nMagnet). The ground cable from the turntable/gramophone connects to the finger screw.\n2. A2/ANALOG IN: Connects to tape recorders and other analog sources.\n4. MICROPHONE: Connects to the microphone and microphone cable for RoomPerfect\u2122 calibration.\n5. D1-D2 COAXIAL DIGITAL INPUTS: Connects to C"
+        },
+        {
+          "title": "5. RoomPerfect\u2122 indicator",
+          "start_page": 6,
+          "content": "Constant light = RoomPerfect\u2122 guide has been executed, and RoomPerfect\u2122 is calibrated\nFlashing light = RoomPerfect\u2122 guide is currently running\nNo light = no RoomPerfect\u2122 processing is active\n6. Source/Mute\nShort press to toggle mute and unmute\nRotate left and right to toggle between audio inputs\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nPress and hold for more than five seconds to initiate Wi-Fi setup using Apple WAC\nPress and hold for more than ten seconds to initiate Wi-Fi setup using WPS\n"
+        },
+        {
+          "title": "Speaker placement with RoomPerfect\u2122",
+          "start_page": 8,
+          "content": "the wall. This will ensure there is no disruption to the functionality of the port.\nWith two subwoofers, you should position one in each front corner, in line with the main speakers.\nConnecting a subwoofer\nThe TDAI-1120 features a crossover function for optimal integration with any subwoofer.\ninput, use both left and right analog outputs.\nWarning!: Do not connect the TDAI-1120 to a subwoofer with High Level / speaker\nterminal inputs, as this will seriously damage the amplifier. Your subwoofers w"
+        },
+        {
+          "title": "RoomPerfect\u2122 guide",
+          "start_page": 22,
+          "content": "This will start the guided RoomPerfect\u2122 setup and will erase previously stored calibrations. When\ncompleted, the following menu items are available in the RoomPerfect\u2122 setup menu.\nThe RoomKnowledge index is an estimate of how much of the room\u2019s acoustical properties have been\nlearned from the room measurements. The higher the RoomKnowledge index, the greater the accuracy of\nthe calibration.\nHot Tip: The objective is to have the RoomKnowledge index increase as slowly as\npossible. This indicates t"
+        },
+        {
+          "title": "RoomPerfect\u2122 troubleshooting",
+          "start_page": 24,
+          "content": "system to make a correct measurement.\n0.5 m / 1.5ft\n0.5 m / 1.5ft\nMin.\n0.5m /\n1.5ft\n1m /\n3ft\nMin.\n0.5m\n1.5ft\n1m /\n3ft\n0.5 m / 1.5ft\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nSignal error! Check microphone and cable, then press Enter.\nNo microphone is connected, or the microphone cable is defective. Check that the microphone cable is\nby connecting the microphone directly to the microphone socket and select Retry.\nIf the microphone is detected, replace the microphone cable and retry the measuremen"
+        }
+      ]
+    }
+  },
+  "full_chapters": [
+    {
+      "title": "FORSIDE",
+      "start_page": 1,
+      "content": "Lyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nContents\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nWelcome\nCongratulations on your purchase of the Lyngdorf Audio TDAI-1120 fully digital amplifier with Room-\nexceed your expectations. We thank you for placing your confidence in Lyngdorf Audio.\nused in Lyngdorf Audio products, please visit www.lyngdorf.com.\nCompliance\nWEEE, The European Parliament and the Council of the European Union have issued the Waste Electrical\nand the accessories packed with them are subject to the WEEE Directive. Please dispose of any waste\nmaterials in accordance with your local recycling regulations. Products and equipment which must be\nreceptacle.\nFCC\nany interference received, including any interference that may cause undesired operation.\nuser\u2019s authority to operate the equipment. Equipment marketed to a consumer must can comply with the\nnecessary regulations in the configuration in which the equipment is marketed.\nApple Airplay\ntechnology identified in the badge and has been certified by the developer to meet Apple performance\nstandards.\nAirPlay is a trademark of Apple Inc., registered in the U.S. and other countries.\nChromecast built-in is a trademark of Google LLC.\nAndroid, Google Home and Chromecast built-in are trademarks of Google LLC.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nWhat is in the box\nTDAI-1120\nMains cord\n8 m (26 feet) XLR \u2013 Microphone cable\nUniversal Mains detection\nMains Inlet: IEC320\n"
+    },
+    {
+      "title": "RoomPerfect\u2122 microphone",
+      "start_page": 4,
+      "content": "Microphone stand\nyou will need an HDMI cable.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nBack panel guide\n1. A1/PHONO MM: Connects directly to turntables/gramophones with high output cartridges (MM: Moving\nMagnet). The ground cable from the turntable/gramophone connects to the finger screw.\n2. A2/ANALOG IN: Connects to tape recorders and other analog sources.\n4. MICROPHONE: Connects to the microphone and microphone cable for RoomPerfect\u2122 calibration.\n5. D1-D2 COAXIAL DIGITAL INPUTS: Connects to CD players and other digital sources.\n6. D3-D4 OPTICAL DIGITAL INPUTS: Connects to CD players and other digital sources.\n7. USB: Connects to your FAT32 formatted USB storage (Pen Drive or Network Attached Storage, NAS).\nThis connector can also power the external storage drive or other devices.\n8. TV: (No video output) Connects to your television\u2019s HDMI ARC connector for playing TV sound.\nto have the TDAI-1120 activate other products, when turned on and off.\n10. MAINS POWER: Always use a mains cable that fits your mains power outlet with ground connection.\nThe TDAI-1120 will automatically adjust to the mains power available.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\n"
+    },
+    {
+      "title": "Front panel guide",
+      "start_page": 6,
+      "content": ""
+    },
+    {
+      "title": "1. LYNGDORF logo",
+      "start_page": 6,
+      "content": "Constant dimmed light = standby mode\nConstant bright light = power \u201cON\u201d mode\nsituations user operation is not possible)\nNo light = power \u201cOFF\u201d mode\n2. Display indicators for the selected input. All LEDs flash during factory reset.\n"
+    },
+    {
+      "title": "3. Bluetooth indicator",
+      "start_page": 6,
+      "content": "Constant light = connection with Bluetooth\nFlashing light = Bluetooth parring mode\nNo light = Bluetooth not connected\n4. Wi-Fi indicator\nConstant light = connected to Wi-Fi\nNo light = Wi-Fi turned off\nFlashing once per second = in Apple \u201cWAC mode\u201d\nFlashing multiple times per second = in \u201cWPS mode\u201d\n"
+    },
+    {
+      "title": "5. RoomPerfect\u2122 indicator",
+      "start_page": 6,
+      "content": "Constant light = RoomPerfect\u2122 guide has been executed, and RoomPerfect\u2122 is calibrated\nFlashing light = RoomPerfect\u2122 guide is currently running\nNo light = no RoomPerfect\u2122 processing is active\n6. Source/Mute\nShort press to toggle mute and unmute\nRotate left and right to toggle between audio inputs\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nPress and hold for more than five seconds to initiate Wi-Fi setup using Apple WAC\nPress and hold for more than ten seconds to initiate Wi-Fi setup using WPS\n"
+    },
+    {
+      "title": "7. Volume wheel",
+      "start_page": 7,
+      "content": "Adjust the volume with left or right rotation. Light indicator for volume setting.\n"
+    },
+    {
+      "title": "8. Standby button",
+      "start_page": 7,
+      "content": "Short press to turn the TDAI-1120 on or into standby mode\nPress and hold for more than five seconds to initiate factory reset. If held for more than ten the\nprocedure is aborted.\nNote: See more about Wi-Fi setup in the section \u201cTurning on the TDAI-1120 for the first time.\u201d\nHow to get started\nfaster network connection than Wi-Fi.\nstreaming options available through Bluetooth or your network.\nConnecting speakers\nWhen connecting the speakers, always connect + and - from the\namplifier to the corresponding + and - terminals on the speaker.\nTips for setting up speakers\nYou can use the stereo triangle as a good rule of thumb when\ndetermining where to place your speakers. The distance between\nthe speakers should be the same as the distance from your\nlistening position to both speakers.\nIf your room does not accommodate the optimal listening setup,\nthe TDAI-1120 can compensate for this when you enter the actual\ndistances to each speaker in the setup menu.\n"
+    },
+    {
+      "title": "ANALOG",
+      "start_page": 7,
+      "content": ""
+    },
+    {
+      "title": "INPUT",
+      "start_page": 7,
+      "content": ""
+    },
+    {
+      "title": "OUTPUT",
+      "start_page": 7,
+      "content": ""
+    },
+    {
+      "title": "INPUT",
+      "start_page": 7,
+      "content": ""
+    },
+    {
+      "title": "OUTPUT",
+      "start_page": 7,
+      "content": ""
+    },
+    {
+      "title": "MICROPHONE",
+      "start_page": 7,
+      "content": ""
+    },
+    {
+      "title": "RIGHT",
+      "start_page": 7,
+      "content": "0,1\u0003\u0017\u020d\nCLASS 2 WIRING\n"
+    },
+    {
+      "title": "LEFT",
+      "start_page": 7,
+      "content": ""
+    },
+    {
+      "title": "DIGITAL",
+      "start_page": 7,
+      "content": "RS232\n"
+    },
+    {
+      "title": "TRIGGER",
+      "start_page": 7,
+      "content": ""
+    },
+    {
+      "title": "TRIGGER",
+      "start_page": 7,
+      "content": "OUT\n"
+    },
+    {
+      "title": "UPDATE",
+      "start_page": 7,
+      "content": "TDAI 2170\n"
+    },
+    {
+      "title": "USB AUDIO IN",
+      "start_page": 7,
+      "content": ""
+    },
+    {
+      "title": "USB MODULE",
+      "start_page": 7,
+      "content": ""
+    },
+    {
+      "title": "ANALOG AUDIO MODULE",
+      "start_page": 7,
+      "content": "A6 RIGHT\nA6 LEFT\n"
+    },
+    {
+      "title": "HDMI MODULE",
+      "start_page": 7,
+      "content": "HDMI 1\nHDMI 3\nHDMI 2\nHDMI 4\nOUT\n"
+    },
+    {
+      "title": "INPUT",
+      "start_page": 7,
+      "content": ""
+    },
+    {
+      "title": "OUTPUT",
+      "start_page": 7,
+      "content": "Lyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\n"
+    },
+    {
+      "title": "Speaker placement with RoomPerfect\u2122",
+      "start_page": 8,
+      "content": "the wall. This will ensure there is no disruption to the functionality of the port.\nWith two subwoofers, you should position one in each front corner, in line with the main speakers.\nConnecting a subwoofer\nThe TDAI-1120 features a crossover function for optimal integration with any subwoofer.\ninput, use both left and right analog outputs.\nWarning!: Do not connect the TDAI-1120 to a subwoofer with High Level / speaker\nterminal inputs, as this will seriously damage the amplifier. Your subwoofers will not play\nuntil the setup has been finalized.\n"
+    },
+    {
+      "title": "ANALOG",
+      "start_page": 8,
+      "content": ""
+    },
+    {
+      "title": "INPUT",
+      "start_page": 8,
+      "content": ""
+    },
+    {
+      "title": "OUTPUT",
+      "start_page": 8,
+      "content": ""
+    },
+    {
+      "title": "INPUT",
+      "start_page": 8,
+      "content": ""
+    },
+    {
+      "title": "OUTPUT",
+      "start_page": 8,
+      "content": ""
+    },
+    {
+      "title": "MICROPHONE",
+      "start_page": 8,
+      "content": ""
+    },
+    {
+      "title": "RIGHT",
+      "start_page": 8,
+      "content": "0,1\u0003\u0017\u020d\nCLASS 2 WIRING\n"
+    },
+    {
+      "title": "LEFT",
+      "start_page": 8,
+      "content": ""
+    },
+    {
+      "title": "DIGITAL",
+      "start_page": 8,
+      "content": "RS232\n"
+    },
+    {
+      "title": "TRIGGER",
+      "start_page": 8,
+      "content": ""
+    },
+    {
+      "title": "TRIGGER",
+      "start_page": 8,
+      "content": "OUT\n"
+    },
+    {
+      "title": "UPDATE",
+      "start_page": 8,
+      "content": "100-240 V ~ 50/60Hz 80W\nDesigned and manufactured in\nDenmark by SL Audio A/S\nwww.lyngdorf.com\nTDAI 2170\nAvertissement: Pour r\u00e9duire le\nrisque d'incendie et de d\u00e9charge\n\u00e9lectrique l'appareil ne doit pas\n\u00eatre expos\u00e9 \u00e0 l'eau ou \u00e0 l'humidit\u00e9\nWarning. To reduce the risk of fire\nor electric shock, do not expose\nthis apparatus to rain or moisture\nAudio Equipment\n3YZ9\n"
+    },
+    {
+      "title": "USB AUDIO IN",
+      "start_page": 8,
+      "content": ""
+    },
+    {
+      "title": "USB MODULE",
+      "start_page": 8,
+      "content": ""
+    },
+    {
+      "title": "ANALOG AUDIO MODULE",
+      "start_page": 8,
+      "content": "A6 RIGHT\nA6 LEFT\n"
+    },
+    {
+      "title": "HDMI MODULE",
+      "start_page": 8,
+      "content": "HDMI 1\nHDMI 3\nHDMI 2\nHDMI 4\nOUT\n"
+    },
+    {
+      "title": "INPUT",
+      "start_page": 8,
+      "content": ""
+    },
+    {
+      "title": "OUTPUT",
+      "start_page": 8,
+      "content": ""
+    },
+    {
+      "title": "ANALOG",
+      "start_page": 8,
+      "content": ""
+    },
+    {
+      "title": "INPUT",
+      "start_page": 8,
+      "content": ""
+    },
+    {
+      "title": "OUTPUT",
+      "start_page": 8,
+      "content": "Phase\nCut-off\n180\n200\nLevel\n100\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\n"
+    },
+    {
+      "title": "Subwoofer controls  (not Lyngdorf type):",
+      "start_page": 9,
+      "content": "1. Phase adjustment should be 0\u00b0.\n2. The subwoofer cut-off frequency should be set to the highest possible frequency range.\n3. Level should be set to 50% of the maximum.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nTurning on the TDAI-1120 for the first time\n"
+    },
+    {
+      "title": "operation.",
+      "start_page": 10,
+      "content": "Network connection by cable (recommended)\nRemote Application for IOS and Android\u2122 devices, and you can stream to the TDAI-1120 from your music\napplications. (See page 13, Lyngdorf Remote application.)\nEstablishing Wi-Fi connection\nfunctionality or by using the manual WPS functionality on routers.\nWi-Fi procedure with iPhone or iPad (active immediately upon turning on)\n1. Press and hold the \u201cSource/Mute\u201d button for five seconds.\nWi-Fi section (under \u201cSet new Airplay speaker\u201d) under Settings.\n1120.\nWi-Fi procedure with Android\nWi-Fi procedure with Android\nadding the TDAI-1120 to your \u201cGoogle home\u201d environment.\n2. On the \u201cAdd and manage\u201d page select \u201cSet up device.\u201d\n3. On the \u201cSet up\u201d page select \u201cSet up new devices.\u201d\n4. On the \u201cChose a home\u201d select an already existing home or \u201cAdd another home.\u201d\n5. On the \u201cNearby devices\u201d page select \u201cLyngdorf TDAI-1120.\u201d\nHolding SOURCE/MUTE button for 0-5 sec\nWi-Fi icon: on\nFunction: Reset\nHolding SOURCE/MUTE button for 5-10 sec\nWi-Fi icon: flashing slowly\nFunction: smartphone/tablet procedure\nHolding SOURCE/MUTE button for 10-15 sec\nWi-Fi icon: flashing quickly\nFunction: WPS select\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\n6. The \u201cHelp to improve Lyngdorf TDAI-1120\u201d page is optional. You may select \u201cNo thanks\u201d or \u201cYes I\u2019m\nproduct.\n7. On the \u201cAdd a custom room\u201d page follow the custom guide or select one of the existing ones e.g.\n\u201cKitchen.\u201d\n8. On the \u201cLyngdorf TDAI-1120 found\u201d page press \u201cYes\u201d to start the actual setup of TDAI-1120.\n9. The next page, \u201cConnecting to Lyngdorf TDAI-1120\u201d tells you that your phone or tablet may\ndisconnect from Wi-Fi during setup. This is as expected as Google home connects to the TDAI-1120\nto automatically transfer Wi-Fi settings of your phone/tablet to the TDAI-1120.\nmay have missed this. In that case just press \u201cretry.\u201d Press \u201cYes\u201d when you hear the sound to\ncontinue.\none located close to the device that uses 5GHz technology. The \u201cConnecting to Wi-Fi\u201d and\n\u201cConnected\u201d pages will be shown.\nGoogle account to make use of the many Google features. Read the \u201cBefore using your Goggle\nAssistant,\u201d \u201cAll done!\u201d and \u201cSpeaker is ready\u201d pages.\nManual Wi-Fi procedure (WPS)\nIf you don\u2019t have a smartphone or tablet, you can connect to Wi-Fi through the manual procedure, WPS\nmode.\n1. Press and hold the SOURCE/MUTE button.\nTDAI-1120 will search for a WPS connection (this can take up to 15 minutes).\n3. Press the WPS button on your Wi-Fi router, and the TDAI-1120 will start connecting.\n4. When the Wi-Fi icon stops flashing, the TDAI-1120 is connected.\nFactory reset\nprevious settings, Wi-Fi settings, saved playlists etc.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nHow to use the TDAI-1120\nTurn on the TDAI-1120 by pressing the Standby button\nTurn the Source button to select the music source\n\u2013 when streaming audio to the TDAI-1120, it will automatically switch to the correct input\n\u2013 see which source is active on the Display.\nPress the same button to Mute the sound temporarily \u2013 un-Mute by pressing the same button.\nTurn volume up and down on the volume knob.\nsource volume level is low. When the music sounds harsh and distorted, your speakers can be\ndamaged. You cannot damage the amplifier by turning the volume up.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nLyngdorf Remote app\nFor Android and IOS based phones you will be able to download the\n\u201cLyngdorf Remote\u201d app, which will allow you to handle the operation\nof your TDAI-1120 \u2013 see examples.\nSelect input, listening position and voicing directly, and see the signal\ninformation in the volume wheel, which you can operate like you\noperate the volume on the amplifier itself. When using the internal\nmedia player album information will appear, when available.\nThe top left icon will access the connection settings for selecting the\nLyngdorf product to be controlled, and open the web interface for\n"
+    },
+    {
+      "title": "accessing the setup.",
+      "start_page": 13,
+      "content": "Under General Settings you can select the use of large album art,\nwhich then will replace the volume wheel in the interface.\nVolume can still be controlled using the volume control of the device.\nIf you are using your device as media player, you can choose to block\nyour device from closing when the Remote App is active.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nThe next icon will open the interface for streaming music and the top\nright icon will turn the amplifier on or off.\nUsing the vTuner menu will allow you to play all radio stations available\non the internet\nNote that through the website you can save up to five stations as pre-\nsets, which then are directly available from the input selector on the\nfront or through the Lyngdorf Remote application.\n"
+    },
+    {
+      "title": "TDAI-1120 setup page",
+      "start_page": 14,
+      "content": "on your network:\ntdai1120.local.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\n"
+    },
+    {
+      "title": "Finalizing the setup",
+      "start_page": 15,
+      "content": "calibration to enjoy everything the TDAI-1120 can offer.\nselected input and formats and you can control the volume setting\nThe Setup section will be described in the following pages.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nperformance). You will be able to see the type and quality of the audio signal received.\nThe lower section is dedicated to the adjustment of sound, Balance, Bass and Treble. These work as\ntraditional controls. For Bass and Treble you can not only adjust the levels but can also change the\nfrequencies that must be attenuated or enhanced.\nPolarity inversion is equal to changing + and \u2013 on the cables to the loudspeakers. You can do this\nindividually for each speaker.\npage. For information on the use of the interface see section for Streaming Setup.\nHot tip: On your mobile device the Home Screen page of your amplifier can be saved as\nan icon for swift access to operation of the TDAI-1120.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\n"
+    },
+    {
+      "title": "Setup menu",
+      "start_page": 17,
+      "content": ""
+    },
+    {
+      "title": "Input setup",
+      "start_page": 17,
+      "content": "Input name:\nChanges the name of the selected input.\nNote: To remove all text after the blinking marker, press and hold the \u201cDown\u201d button.\nSensitivity:\nEnables you to match input levels from different sources. Can be adjusted up to +24dB.\n"
+    },
+    {
+      "title": "Voicing:",
+      "start_page": 17,
+      "content": "your gaming console audio, for example, set that voicing here.\nEnable theater mode:\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nWarning: This feature bypasses the volume control!\nDo not test this setting with a CD player or similar unregulated signal!\npower and calibrate the front speakers and/or subwoofer. Connect your home theater processor to the\nselected input.\nWhen selecting other inputs, the amplifier returns to the last current volume.\nInput delay:\ndelay time to ensure that the video and audio signals are played back simultaneously.\n"
+    },
+    {
+      "title": "Output setup",
+      "start_page": 18,
+      "content": "adjust the setup, you will learn in this section how to set up your system before performing the\ndedicated filters to optimize the performance of Lyngdorf speakers and boundary woofers.\nCustom Sub will open for your use of any subwoofer design \u2013 Advanced will open ALL settings.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nNote: If you change anything in the output settings of the speakers and subwoofers, you\nmust do a new RoomPerfect\u2122 calibration.\nIf you have a perfect speaker setup with two speakers, you do not need to enter anything\nunder distances.\nDelays:\nfor phase based upon your entry of the distances between the speakers\u2019 and subwoofers\u2019 locations in\nrelation to your listening position (focus position).\nMeasuring distances\ndistances to your speakers and subwoofer(s). Through the differences in distances the TDAI-1120 can\nposition) to the front of the speakers. When measuring the distance to a subwoofer, measure from the\npreferred listening position to the back corner of the subwoofer.\nSpeakers\nSubwoofers\nUsing other manufacturers\u2019 subwoofers requires a few more entries:\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nAmplifier delay:\nprocessing (DSP) or a separate amplifier, there may be a natural electronic delay in these products.\nenter this data. The TDAI-1120 will delay the signal to the speakers to match the delay entered.\nMain speaker output:\nThe available settings are:\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nCrossover\nHigh pass removes the frequencies below the crossover frequency.\nLow pass removes the frequencies above the crossover frequency.\nFull range allows the signal to pass unfiltered.\nAnalog output:\nThe available settings for routing are:\nCrossover\nHigh pass removes the frequencies below the crossover frequency.\nLow pass removes the frequencies above the crossover frequency.\nFull range allows the signal to pass unfiltered to a separate amplifier, bypassing the internal\namplifier.\nHeadphone disables RoomPerfect\u2122; voicings are still available. Muting the TDAI-1120 will only\nmute the speakers, not this output.\nTape Out disables RoomPerfect\u2122, voicings and volume control.\nOff mutes the output.\noutput adjustment here is far better than attenuating the level on the subwoofer itself.\nLow or High pass crossover filters:\nthrough the designated output terminals.\nThe available types of crossover filters are named after the inventors of these filter designs:\nLR: (Linkwitz Riley) 2nd, 4th or 8th order.\nBW: (Butterworth) 1st, 2nd or 4th order.\nthe output by choosing one or two Custom subwoofers.\nFrequency sets the position of the crossover between loudspeakers and subwoofer(s). Our\nrecommendations are loaded when you activate the analog output.\nOutput Level Control (Volume) has the following options:\nRegulated makes the output level follow the level of the volume control.\nFull scale means there is a constant output at maximum level.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nWarning: If full scale is selected, you will have full volume output, and this can overload\nand damage speakers.\nsafe for your connected equipment.\nSelecting Advanced setup for an output will allow you to tweak the settings to each output.\nfilter engaged.\nSelecting Advanced setup for an output will allow you to tweak the settings to this output.\nUnder EQ you can now select Custom to design your own Pre-Equalizer for optimizing\nthe performance of your setup. RoomPerfect\u2122 will calibrate against the performance\nwith this filter engaged.\n"
+    },
+    {
+      "title": "RoomPerfect\u2122 setup",
+      "start_page": 22,
+      "content": "speaker sound. When a calibration is being performed, the RoomPerfectTM Icon will be blink.\n"
+    },
+    {
+      "title": "RoomPerfect\u2122 guide",
+      "start_page": 22,
+      "content": "This will start the guided RoomPerfect\u2122 setup and will erase previously stored calibrations. When\ncompleted, the following menu items are available in the RoomPerfect\u2122 setup menu.\nThe RoomKnowledge index is an estimate of how much of the room\u2019s acoustical properties have been\nlearned from the room measurements. The higher the RoomKnowledge index, the greater the accuracy of\nthe calibration.\nHot Tip: The objective is to have the RoomKnowledge index increase as slowly as\npossible. This indicates that each measurement holds new data for the calibration. When\nthe measurement does not give new data, the index will increase quickly.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nHandle focus positions\nIt is possible to have up to eight different focus positions.\nnot affect the quality of the measurement or the result.\nAdd room measurement\nIt is possible to add more room measurements, which can increase RoomKnowledge and thereby fine tune\nall the room correction filters.\nPlacing the microphone in the focus position\nWhen you are prompted to place the microphone in the focus position, connect the microphone to the\nshould correspond to your head\u2019s height and direction.\nthe measurement.\nlow volume and long measurement will not affect the quality of the calibration.\nMeasuring the focus position\nWhen the calibration volume has been set, RoomPerfect\u2122 will\nsend a range of tones to measure the focus position.\nMeasuring random room positions\nproperties of the room. See \u201cRoomPerfect troubleshooting\u201d on page 24 if the measurement stops\nprematurely.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nKeep taking measurements until RoomKnowledge reaches minimum 90%.\nThese are the rules of thumb when measuring the room:\nthe microphone must always have a clear line of sight to\nthe tweeter mid-range of the speaker.\nthe microphone should be in random and varying positions\nand orientations. Point it up/down/sideways, the more\nrandom positions the better. The height of the microphone\nshould be between ear-height seated and standing.\nthe measurements should cover the entire listening room,\nbut not open hallways and kitchens.\nthe microphone should not be closer than 0.5m/1.5ft from\nthe floor, ceiling, and walls.\nthe microphone should be at least 1m/3ft from the front of the loudspeakers.\ndo not take symmetrical measurements in the room.\nRoom measurements above 90% RoomKnowledge\nNote that RoomKnowledge is calculated by the computer based on how much of the new measurement it\nalready knows. If the RoomKnowledge index does not increase after a measurement, you have added a\ngood measurement with a lot of new information.\nTo fully optimize RoomPerfect\u2122\u2019s understanding of the room\u2019s acoustical properties, we recommend you\nkeep doing measurements until RoomKnowledge is above 95%. The higher the RoomKnowledge, the more\naccurate the room correction filters will be.\nWhen room measurements are complete, the TDAI-1120 will calculate the focus and global filters\nautomatically.\n"
+    },
+    {
+      "title": "RoomPerfect\u2122 troubleshooting",
+      "start_page": 24,
+      "content": "system to make a correct measurement.\n0.5 m / 1.5ft\n0.5 m / 1.5ft\nMin.\n0.5m /\n1.5ft\n1m /\n3ft\nMin.\n0.5m\n1.5ft\n1m /\n3ft\n0.5 m / 1.5ft\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nSignal error! Check microphone and cable, then press Enter.\nNo microphone is connected, or the microphone cable is defective. Check that the microphone cable is\nby connecting the microphone directly to the microphone socket and select Retry.\nIf the microphone is detected, replace the microphone cable and retry the measurement.\nError: Signal clipping - or - Error: Too much noise\nmeasurement.\nError: Signal too low\nThis error message is displayed when the measurement has lasted more than five minutes for the low-\nresults in prolonged measuring times. Raise the measuring signal volume or reduce the noise in the\nenvironment before continuing with the measurement.\n"
+    },
+    {
+      "title": "Voicing setup",
+      "start_page": 25,
+      "content": "more bass \u2013 everything is available. See separate manual for designing your own Voicings.\n"
+    },
+    {
+      "title": "Audio setup",
+      "start_page": 25,
+      "content": "This section allows you to activate the following settings:\nfrom high compression and too high levels to improve the appeal when played on the radio.\nShow RoomPerfect\u2122 bypass will allow you to test and demonstrate the effect of the calibration.\nto have this filter activated in order to not transmit vibrations to the pick-up cartridge.\na maximum limit to how loud the TDAI-1120 may play.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\n"
+    },
+    {
+      "title": "HDMI setup",
+      "start_page": 26,
+      "content": "playback device. The connection exchanges information as to available types of data against what the\nplayback devices will accept.\nCEC (Consumer Electronics Control) is an HDMI feature designed to allow commands to be sent from one\nsetting of the TDAI-1120 by using the remote control of the TV.\nFunctions may be reduced to support your own products and may not include full support of CEC codes.\nEnable CEC will activate the function and allow your TV to connect to the TDAI-1120.\nNote: You need to set Standby level(General Setup) to Network standby for CEC to\nfunction. As default, CEC is not active on HDMI to comply with regulations requiring a\nvery low standby power. Turning it on will raise standby power to 1.2W\nHDMI connected source is turned on.\nNote: Menus only appear if CEC is enabled.\n"
+    },
+    {
+      "title": "Streaming setup",
+      "start_page": 26,
+      "content": "The TDAI-1120 supports a variety of media streaming services.\n"
+    },
+    {
+      "title": "setups.",
+      "start_page": 26,
+      "content": "TDAI-1120. These options control the volume setting, change inputs and turn the unit on.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nChromecast built-in\u2122\nright to your speakers. Easily control your speakers with apps you already know and love from your\niPhone\u00ae, iPad\u00ae, Android phone or tablet, Mac\u00ae or Windows\u00ae laptop, or Chromebook\nPlease use your Google Home application to accept Google Terms of Service and Google Privacy Policy\nhttps://policies.google.com/privacy?hl=en.\nSpotify Connect\nlicenses.\nRoon\nUse your Roon control app to initiate streaming. To read more about Roon services go to\nhttps://roonlabs.com.\nAirplay2\ninitiate individual or simultaneous Airplay streaming to all TDAI-1120 amplifiers in your setup.\nhttps://www.apple.com/airplay/\nBluetooth\nselected. If no device is presently connected, pairing mode will start and the LED will be flashing.\nUPnP\nUPnP server to the TDAI-1120.\nUSB\n\u201cTop Menu.\u201d The USB stick must be formatted as FAT32 file system.\nvTuner\nPlay vTuner radio channels or podcasts from vTuner service. This can be initiated from the web page\n\u201cStreaming Audio\u201d tab, or in the Lyngdorf Remote App for Android and iOS as part of \u201cTop Menu.\u201d\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nPresets\n6) on the remote control until that particular preset selection is visible on front panel.\n"
+    },
+    {
+      "title": "General setup",
+      "start_page": 28,
+      "content": "Power Management determines the stand-by setting of the TDAI-1120:\nDeep Sleep (default) uses the lowest possible power consumption\nNetwork Standby will keep the TDAI-1120 alert, and it will react to commands over the networks\nAuto off delay sets the idle time required for automatic shut-down of the amplifier.\nupon receiving a signal. Amp. Power Mode will start the TDAI-1120 on the input last used.\nNote: If the TDAI-1120 has been switched to another input, the trigger command from the\nsource connected will not turn off the amplifier!\n"
+    },
+    {
+      "title": "Remote control (optional accessory):",
+      "start_page": 28,
+      "content": "affecting the TDAI-1120.\nwhich will turn off the display with a little delay after each operation.\nManage software\nBackup\namplifier to this specific setup at a later date.\nRestore\nIf a backup file is available on USB, you can select and load it.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nFactory reset:\nRestores the system to the default factory settings.\nWarning: All user preference settings, system data, and RoomPerfect\u2122 data are lost\nwhen restoring to default settings!\nDownload system log\namplifier.\nUpdate software\nlatest software.\nTo update the TDAI-1120:\nserver on the internet.\nIn case the web interface is not accessible, or a fault in the update process has made the amplifier\ninaccessible, you can force a new software onto the TDAI-1120:\nSave the new software on a FAT formatted USB drive.\nInsert the USB drive into the \u201cSW Update\u201d connector on the back of the TDAI-1120.\nTurn off the TDAI-1120 by disconnecting the mains power.\nHold down the standby button on the front and connect the mains power again.\nWhen the Lyngdorf logo starts flashing, release the standby button and the TDAI-1120 will update\nthe software. When the update is finished, the amplifier goes into standby.\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nCleaning and maintenance\nor fingerprints. Do not use abrasive cleaners or cleaners containing liquid solvents.\nControl Manual\ndownload it from www.lyngdorf.com, or contact your local Lyngdorf Audio representative.\nTechnical assistance\nFor the latest version of this manual, please check the Lyngdorf Audio website: www.lyngdorf.com.\nIf you have any problems with or questions regarding your Lyngdorf Audio product, please contact\nyour nearest Lyngdorf Audio dealer.\nEnjoy!\nSL Audio A/S\nUlvevej 28\n7800 Skive\nDenmark\nE-mail:  contact@lyngdorf.com\nWeb:  www.lyngdorf.com\nLyngdorf Audio TDAI-1120 \u2013 Owner\u2019s manual\nSL AUDIO A/S \u2022 ULVEVEJ 28 \u2022 7800 SKIVE \u2022 DENMARK \u2022 WWW.LYNGDORF.COM\n"
+    }
+  ]
+}
