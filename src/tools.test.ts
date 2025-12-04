@@ -31,11 +31,15 @@ describe('Tools', () => {
     mockSetDevice = vi.fn();
     mockDiscovery = new LyngdorfDiscovery();
 
+    const volumeConfig = { warningThreshold: -15, hardLimit: -10 };
+
     tools = createTools(
       () => mockTransport,
       () => mockDevices,
       mockSetDevice,
-      mockDiscovery
+      mockDiscovery,
+      volumeConfig,
+      () => null // getCurrentDevice
     );
   });
 
@@ -45,10 +49,15 @@ describe('Tools', () => {
         'powerOn', 'powerOff', 'togglePower',
         'setVolume', 'volumeUp', 'volumeDown', 'getVolume',
         'mute', 'unmute',
+        'setBass', 'getBass', 'setBassFrequency', 'getBassFrequency',
+        'setTreble', 'getTreble', 'setTrebleFrequency', 'getTrebleFrequency',
+        'setBalance', 'getBalance',
         'setSource', 'getSource',
         'setRoomPerfectFocus', 'setRoomPerfectGlobal', 'getRoomPerfect',
         'setVoicing', 'nextVoicing', 'previousVoicing', 'getVoicing', 'listVoicings',
-        'play', 'pause', 'next', 'previous', 'stop',
+        'play', 'pause', 'next', 'previous',
+        'listSources', 'listRoomPerfectPositions',
+        'getMuteStatus', 'getStreamType', 'getAudioStatus', 'getDeviceInfo',
         'discoverDevices', 'listDevices', 'selectDevice',
         'getStatus'
       ];
@@ -61,7 +70,7 @@ describe('Tools', () => {
     });
 
     it('has correct total number of tools', () => {
-      expect(Object.keys(tools).length).toBe(28);
+      expect(Object.keys(tools).length).toBe(43);
     });
   });
 
@@ -114,15 +123,23 @@ describe('Tools', () => {
       // Mock a connected transport
       mockTransport = {
         isConnected: () => true,
-        sendCommand: vi.fn().mockResolvedValue('!VOL(-30)')
+        sendCommand: vi.fn().mockImplementation((cmd: string) => {
+          if (cmd === '!PWR?') return Promise.resolve('!PWR(ON)');
+          if (cmd === '!VOL?') return Promise.resolve('!VOL(-300)'); // Current volume -30dB
+          return Promise.resolve('OK');
+        }),
+        parseVolumeResponse: vi.fn().mockReturnValue(-30)
       } as any;
 
       // Recreate tools with the mock transport
+      const volumeConfig = { warningThreshold: -15, hardLimit: -10 };
       tools = createTools(
         () => mockTransport,
         () => mockDevices,
         mockSetDevice,
-        mockDiscovery
+        mockDiscovery,
+        volumeConfig,
+        () => null
       );
 
       const result = await tools.volumeUp.handler({ steps: 1 });
@@ -134,15 +151,21 @@ describe('Tools', () => {
     it('volumeDown accepts custom steps', async () => {
       mockTransport = {
         isConnected: () => true,
-        sendCommand: vi.fn().mockResolvedValue('!VOL(-30)')
+        sendCommand: vi.fn().mockImplementation((cmd: string) => {
+          if (cmd === '!PWR?') return Promise.resolve('!PWR(ON)');
+          return Promise.resolve('!VOL(-30)');
+        })
       } as any;
 
       // Recreate tools with the mock transport
+      const volumeConfig = { warningThreshold: -15, hardLimit: -10 };
       tools = createTools(
         () => mockTransport,
         () => mockDevices,
         mockSetDevice,
-        mockDiscovery
+        mockDiscovery,
+        volumeConfig,
+        () => null
       );
 
       const result = await tools.volumeDown.handler({ steps: 1 });
@@ -157,11 +180,14 @@ describe('Tools', () => {
       mockTransport = null;
 
       // Recreate tools with null transport
+      const volumeConfig = { warningThreshold: -15, hardLimit: -10 };
       tools = createTools(
         () => mockTransport,
         () => mockDevices,
         mockSetDevice,
-        mockDiscovery
+        mockDiscovery,
+        volumeConfig,
+        () => null
       );
 
       await expect(tools.setVolume.handler({ level: -30 })).rejects.toThrow('Not connected');

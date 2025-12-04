@@ -21,7 +21,8 @@ export class LyngdorfTransport extends EventEmitter {
       this.socket.on('connect', () => {
         this.emit('connected');
         // Set feedback level 1 (send data on status changes)
-        this.sendCommand('!VERB(1)').catch(() => {});
+        // VERB command doesn't return a response, so write directly
+        this.socket!.write('!VERB(1)\r');
         resolve();
       });
 
@@ -46,13 +47,16 @@ export class LyngdorfTransport extends EventEmitter {
   private handleData(data: string): void {
     this.responseBuffer += data;
 
-    // Process complete messages (ending with \r)
+    // Process complete messages (ending with \r or \r\n)
+    // Split on \r and strip any leading \n from messages
     const messages = this.responseBuffer.split('\r');
     this.responseBuffer = messages.pop() || '';
 
     for (const message of messages) {
-      if (message.length > 0) {
-        this.processMessage(message);
+      // Strip leading \n if present
+      const cleaned = message.replace(/^\n/, '');
+      if (cleaned.length > 0) {
+        this.processMessage(cleaned);
       }
     }
   }
@@ -115,6 +119,23 @@ export class LyngdorfTransport extends EventEmitter {
     });
   }
 
+  // Send command without waiting for response (for commands that don't return data)
+  async sendCommandNoResponse(command: string): Promise<void> {
+    if (!this.socket || this.socket.destroyed) {
+      throw new Error('Not connected to device');
+    }
+
+    return new Promise((resolve, reject) => {
+      this.socket!.write(command + '\r', (error) => {
+        if (error) {
+          reject(error);
+        } else {
+          resolve();
+        }
+      });
+    });
+  }
+
   private scheduleReconnect(): void {
     if (this.reconnectTimer) return;
 
@@ -159,8 +180,82 @@ export class LyngdorfTransport extends EventEmitter {
   }
 
   parseRoomPerfectResponse(response: string): string | null {
-    if (response.includes('!RPGLOB')) return 'Global';
-    const match = response.match(/!RPFOC\((\d+)\)/);
-    return match ? `Focus ${match[1]}` : null;
+    const match = response.match(/!RP\((\d+)\)/);
+    if (!match) return null;
+
+    const position = parseInt(match[1], 10);
+    if (position === 0) return 'Bypass';
+    if (position === 9) return 'Global';
+    if (position >= 1 && position <= 8) return `Focus ${position}`;
+    return null;
+  }
+
+  parseMuteResponse(response: string): boolean | null {
+    if (response.includes('!MUTE(ON)')) return true;
+    if (response.includes('!MUTE(OFF)')) return false;
+    return null;
+  }
+
+  parseStreamTypeResponse(response: string): string | null {
+    const match = response.match(/!STREAMTYPE\((\d+)\)/);
+    if (!match) return null;
+
+    const streamTypeMap: { [key: string]: string } = {
+      '0': 'None',
+      '1': 'vTuner',
+      '2': 'Spotify',
+      '3': 'AirPlay',
+      '4': 'uPnP',
+      '5': 'USB File',
+      '6': 'Roon Ready',
+      '7': 'Bluetooth',
+      '8': 'GoogleCast',
+      '9': 'Unknown'
+    };
+
+    return streamTypeMap[match[1]] || 'Unknown';
+  }
+
+  parseBassResponse(response: string): number | null {
+    const match = response.match(/!BASS\(([-\d]+)\)/);
+    return match ? parseInt(match[1], 10) : null;
+  }
+
+  parseBassFreqResponse(response: string): number | null {
+    const match = response.match(/!BASSFREQ\((\d+)\)/);
+    return match ? parseInt(match[1], 10) : null;
+  }
+
+  parseTrebleResponse(response: string): number | null {
+    const match = response.match(/!TREBLE\(([-\d]+)\)/);
+    return match ? parseInt(match[1], 10) : null;
+  }
+
+  parseTrebleFreqResponse(response: string): number | null {
+    const match = response.match(/!TREBLEFREQ\((\d+)\)/);
+    return match ? parseInt(match[1], 10) : null;
+  }
+
+  parseBalanceResponse(response: string): string | null {
+    const match = response.match(/!BAL\(([LR]?\d+|0)\)/);
+    return match ? match[1] : null;
+  }
+
+  parseListResponse(multilineResponse: string): Array<{ number: number; name: string }> {
+    const lines = multilineResponse.split(/\r\n|\r|\n/).filter(line => line.trim());
+    const items: Array<{ number: number; name: string }> = [];
+
+    for (const line of lines) {
+      // Parse lines like: !SRCNAME(1,"HDMI ARC") or !RPNAME(1,"Living Room") or !VOINAME(1,"Neutral")
+      const match = line.match(/!(SRCNAME|RPNAME|VOINAME)\((\d+),"([^"]*)"\)/);
+      if (match) {
+        items.push({
+          number: parseInt(match[2], 10),
+          name: match[3]
+        });
+      }
+    }
+
+    return items;
   }
 }

@@ -1,0 +1,404 @@
+{
+  "model": "TDAI-2210",
+  "manual_type": "owners",
+  "toc": [
+    {
+      "title": "Introduction",
+      "page": 1
+    },
+    {
+      "title": "OWNER’S",
+      "page": 1
+    },
+    {
+      "title": "MANUAL",
+      "page": 2
+    },
+    {
+      "title": "Contents",
+      "page": 3
+    },
+    {
+      "title": "Welcome",
+      "page": 4
+    },
+    {
+      "title": "Compliance",
+      "page": 5
+    },
+    {
+      "title": "WEEE",
+      "page": 6
+    },
+    {
+      "title": "FCC",
+      "page": 7
+    },
+    {
+      "title": "Important safety instructions",
+      "page": 8
+    },
+    {
+      "title": "Pre-installation",
+      "page": 9
+    },
+    {
+      "title": "Introduction: Front panel",
+      "page": 10
+    },
+    {
+      "title": "Introduction: Rear panel",
+      "page": 11
+    },
+    {
+      "title": "Introduction: Remote Control",
+      "page": 12
+    },
+    {
+      "title": "Introduction: Touchscreen Display",
+      "page": 13
+    },
+    {
+      "title": "Introduction: Remote Control App “My Lyngdorf”",
+      "page": 14
+    },
+    {
+      "title": "Introduction: Browser App",
+      "page": 15
+    },
+    {
+      "title": "TDAI-2210 first time installation and setup",
+      "page": 16
+    },
+    {
+      "title": "Touchscreen",
+      "page": 17
+    },
+    {
+      "title": "Screensaver",
+      "page": 18
+    },
+    {
+      "title": "Main Setup Screen",
+      "page": 19
+    },
+    {
+      "title": "Home",
+      "page": 20
+    },
+    {
+      "title": "Inputs",
+      "page": 21
+    },
+    {
+      "title": "Home",
+      "page": 22
+    },
+    {
+      "title": "Inputs",
+      "page": 23
+    },
+    {
+      "title": "Setup",
+      "page": 24
+    },
+    {
+      "title": "Device: Inputs Setting",
+      "page": 25
+    },
+    {
+      "title": "Sound: Volume Settings",
+      "page": 26
+    },
+    {
+      "title": "Sound: RoomPerfectTM",
+      "page": 27
+    },
+    {
+      "title": "Sound: Output Settings",
+      "page": 28
+    },
+    {
+      "title": "Tips for setting up speakers",
+      "page": 29
+    },
+    {
+      "title": "Sound: Headphones",
+      "page": 30
+    },
+    {
+      "title": "Sound: Polarity Inversion",
+      "page": 31
+    },
+    {
+      "title": "Sound: Enhancements",
+      "page": 32
+    },
+    {
+      "title": "Network",
+      "page": 33
+    },
+    {
+      "title": "Software",
+      "page": 34
+    },
+    {
+      "title": "Voicings: How to select and set up Voicings",
+      "page": 35
+    },
+    {
+      "title": "Voicings",
+      "page": 36
+    },
+    {
+      "title": "Music Streaming Services",
+      "page": 37
+    },
+    {
+      "title": "Music Streaming Formats and Codecs",
+      "page": 38
+    },
+    {
+      "title": "HDMI",
+      "page": 39
+    },
+    {
+      "title": "Technical specifications",
+      "page": 40
+    },
+    {
+      "title": "Cleaning and maintenance",
+      "page": 41
+    },
+    {
+      "title": "Technical assistance",
+      "page": 42
+    },
+    {
+      "title": "SL AUDIO A/S • RÆVEVEJ 3 • 7800 SKIVE • DENMARK • WWW.STEINWAYLYNGDORF.COM",
+      "page": 43
+    }
+  ],
+  "sections": [
+    {
+      "title": "Introduction",
+      "content": "LYNGDORF AUDIO TDAI- 2210",
+      "page": 1
+    },
+    {
+      "title": "OWNER’S",
+      "content": "",
+      "page": 1
+    },
+    {
+      "title": "MANUAL",
+      "content": "DK: For seneste version af denne manual og yderligere hjælp på dit lokale sprog, venligst besøg\n[http://www.steinwaylyngdorf.com](http://www.steinwaylyngdorf.com) eller kontakt os på contact@lyngdorf.com\n\nNO: For den nyeste versjonen av denne håndboken og ytterligere hjelp på ditt lokale språk vennligst besøk\n[http://www.steinwaylyngdorf.com](http://www.steinwaylyngdorf.com) eller kontakt oss på contact@lyngdorf.com\n\nSE: Gå till [http://www.lyngdorf.com](http://www.lyngdorf.com) eller kontakta oss på contact@lyngdorf.com för den senaste versionen av denna handbok för\noch ytterligare hjälp på ditt språk.\n\nFI: Saat uusimmat käsikirjaversion ja lisäapua omalla kielellä osoitteessa [http://www.steinwaylyngdorf.com](http://www.steinwaylyngdorf.com) tai yhteyttä\nosoitteeseen contact@lyngdorf.com\n\nDE: Für die aktuellste Version dieses Manuals, eine digitale Version, und Bedienhinweise in deutscher Sprache besuchen\nSie die Website [http://www.steinwaylyngdorf.com](http://www.steinwaylyngdorf.com) oder kontaktieren Sie uns per email contact@lyngdorf.com\n\nENG: For the latest and digital version of this manual and further operating instructions please visit the website\n[http://www.steinwaylyngdorf.com](http://www.steinwaylyngdorf.com) or send an email to contact@lyngdorf.com\n\nNL: Voor de meest recente versie van deze handleiding en verdere hulp in uw eigen taal kunt u terecht op\n[http://www.steinwaylyngdorf.com](http://www.steinwaylyngdorf.com) of neem contact met ons op via contact@lyngdorf.com\n\nPL: W celu uzyskania najnowszej wersji tej instrukcji obsługi oraz dalszej pomocy w Twoim języku, odwiedź\n[http://www.lyngdorf.com](http://www.lyngdorf.com) lub skontaktuj się z nami pod adresem contact@lyngdorf.com.\n\nIT: Per ottenere l’ultima versione del presente manuale e ulteriore supporto nella lingua locale, visitare il sito\n[http://www.acme.com](http://www.acme.com) o scrivere all’indirizzo contact@acme.com\n\nES: Para descargar la última versión de este manual de ayuda y otros recursos en su idioma local, visite la web\n[http://www.acme.com](http://www.acme.com) o póngase en contacto con nosotros en el email contact@acme.com\n\nCZ: Nejnovější verzi této příručky a další pomoc ve vašem místním jazyce naleznete na stránkách [http://www.lyngdorf.com](http://www.lyngdorf.com) nebo\nnás kontaktujte na contact@lyngdorf.com\n\nRU: Для получения последней версии этого руководства и консультаций на русском языке зайдите на сайт\n[http://www.lyngdorf.com](http://www.lyngdorf.com) или свяжитесь с нами по адресу: contact@lyngdorf.com\n\nUKR: Останню та цифрову версію цього посібника та додаткові інструкції з експлуатації можна знайти на веб-сайті\n[http://www.steinwaylyngdorf.com](http://www.steinwaylyngdorf.com) або надіславши електронного листа на адресу contact@lyngdorf.com",
+      "page": 2
+    },
+    {
+      "title": "Contents",
+      "content": "- Version: November\n- Welcome\n- Compliance\n- Important safety instructions\n- Pre-installation\n- Introduction: Front panel\n- Introduction: Rear panel\n- Introduction: Remote Control\n- Introduction: Touchscreen Display\n- Introduction: Remote Control App “My Lyngdorf”\n- Introduction: Browser App\n- TDAI-2210 first time installation and setup\n- Touchscreen\n- Main Setup Screen\n- Home\n- Inputs\n- Setup\n- Device: Inputs Setting\n- Sound: Volume Settings\n- Sound: RoomPerfectTM\n- Sound: Output Settings\n- Tips for setting up speakers\n- Sound: Headphones\n- Sound: Polarity Inversion\n- Sound: Enhancements\n- Network\n- Software\n- Voicings\n- Music Streaming Services\n- Music Streaming Formats and Codecs\n- HDMI\n- Cleaning and maintenance\n- Technical assistance\n- Technical specifications",
+      "page": 3
+    },
+    {
+      "title": "Welcome",
+      "content": "Congratulations on your purchase of the Lyngdorf TDAI- 2210 amplifier. The TDAI- 2210 will deliver an audio\nexperience that will far exceed your expectations. We thank you for placing your confidence in Lyngdorf Audio.\n\nPlease read all material carefully prior to installation. If you need additional assistance, contact your local\nLyngdorf Audio representative first, or email contact@lyngdorf.com\n\nFAQs about the TDAI-2210, how-to videos, and in-depth information about the technologies used in Lyngdorf\nAudio products can be found on our website\n\n[http://www.steinwaylyngdorf.com](http://www.steinwaylyngdorf.com)",
+      "page": 4
+    },
+    {
+      "title": "Compliance",
+      "content": "",
+      "page": 5
+    },
+    {
+      "title": "WEEE",
+      "content": "The European Parliament and the Council of the European Union have issued the Waste Electrical and\nElectronic Equipment Directive. The purpose of the Directive is to prevent waste of electrical and electronic\nequipment and to promote reuse, recycling, and other forms of waste recovery. Lyngdorf products and the\naccessories packed with them are subject to the WEEE Directive. Please dispose of any waste materials in\naccordance with your local recycling regulations. Products and equipment which must be collected for reuse,\nrecycling, and other forms of recovery are marked with the icon of the crossed-out waste receptacle.",
+      "page": 6
+    },
+    {
+      "title": "FCC",
+      "content": "Lyngdorf products and accessories comply with parts 15 and 68 of the FCC rules. Operation is subject to the\nfollowing two conditions: (1) this device may not cause harmful interference; and (2) this device must accept\nany interference received, including any interference that may cause undesired operation.\n\nChanges or modifications not expressly approved by the party responsible for compliance could void the user’s\nauthority to operate the equipment. Equipment marketed to a consumer must can comply with the necessary\nregulations in the configuration in which the equipment is marketed.",
+      "page": 7
+    },
+    {
+      "title": "Important safety instructions",
+      "content": "**Warnings**\n\nCaution: Risk of electrical shock. Do not open.\nCaution: To reduce the risk of electrical shock, do not remove cover.\nNo user-serviceable parts inside. Refer servicing to qualified personnel.\n\n**Explanation of graphical symbols**\n\n```\nThe exclamation mark within an equilateral triangle is intended to alert the user to the\npresence of important operating and maintenance (servicing) instructions in the literature\naccompanying the product.\n```\n```\nThe lightning with arrowhead within an equilateral triangle is intended to alert the user to the\npresence of uninsulated “Dangerous Voltage” within the product’s enclosure that may be of\nsufficient magnitude to constitute a risk of electrical shock to a person.\n```\n**Important safety instructions**\nPlease refer to the “Important safety instructions” sheets in the shipping box.",
+      "page": 8
+    },
+    {
+      "title": "Pre-installation",
+      "content": "Please read all material carefully prior to installation. If you need additional assistance, contact your Lyngdorf\nAudio representative, or visit [http://www.steinwaylyngdorf.com.](http://www.steinwaylyngdorf.com.)\n\n**Unpacking the product**\nCarefully remove the unit and accessories from the carton and check for shipping damage. Contact the shipper\nand your Lyngdorf Audio representative immediately, if the unit bears any sign of damage.\n\nKeep the shipping carton and all packing material for future use. If this unit is shipped for service without the\noriginal packing, damage could occur and void the warranty.\n\n```\nWarning:\nNever rest the TDAI-2210 on its front panel.\nThe volume wheel and its electronics inside may be permanently damaged\n```\n**Inventory**\nCheck the list below to ensure that all necessary product components have been delivered. Report all\ndiscrepancies to your Lyngdorf Audio representative immediately.\n\n```\nLyngdorf TDAI- 2210\n```\nMains cord Remote control Owner’s manual\n\nRoomPerfect Microphone Microphone stand Microphone cable\n\n\n**Operating voltage**\nLyngdorf Audio products must be connected to the mains power system only.\n\nThe TDAI- 2210 will automatically detect voltage between 100- 240 V and 50/60Hz.\n\n**Ventilation requirements**\nThe TDAI- 2210 does not have a built-in fan, nor does it require special measures to ensure heat dissipation.\nIt should be placed according to these guidelines:\n\n- Allow at least 1 inches / 2,5 cm of free space on all sides.\n- Place it in an environment free of excessive heat and sunlight.\n- Place it on a firm, level surface.\n- Do not place it on a soft surface (carpet, fabrics).",
+      "page": 9
+    },
+    {
+      "title": "Introduction: Front panel",
+      "content": "Left to Right:\n\n- Touchscreen display with on/off logo indicator\n- Headphone output\n- Dial for volume control\n- Standby switch",
+      "page": 10
+    },
+    {
+      "title": "Introduction: Rear panel",
+      "content": "Top Row, Left to Right:\n\n- Slot for one optional module\n- Right speaker output\n- Left speaker output\n- 1 x Main voltage connector (100-240 V, 50/60 Hz)\n\nLower Row, Left to Right:\n\n- Product name and sticker with serial number\n- 2 x single ended RCA analog audio inputs (A1, A2)\n- 1 x balanced XLR analog audio output\n- 1 x single ended RCA analog audio output\n- 1 x XLR microhone input for RoomPerfect\n- 2 x optical TOSLINK S/PDIF digital audio inputs (D1, D2)\n- 3 x coaxial RCA S/PDIF digital audio inputs (D3, D4, D5)\n- 1 x coaxial RCA S/PDIF digital audio output\n- 1 x 3.5mm mini jack trigger input and 1 x trigger output\n- 1 x HDMI eARC (TV)\n- 1 x USB-C input\n- 1 x USB-A port for music file playback, software updating, backup, etc.\n- 1 x RJ45 LAN port for connection to local network",
+      "page": 11
+    },
+    {
+      "title": "Introduction: Remote Control",
+      "content": "The TDAI- 2210 comes with a dedicated remote control, which operates in infrared (IR).\n\nUsing the remote control and the front display, the TDAI- 2210 can be operated without network connection.\n\nKeys and function overview\n\nDisplay Controls the screensaver\n\n```\nTurns the TDAI- 2210 on and into standby.\n```\nNumbers For Presets and as keybord input\n\nYellow button Shows a Sound Level Meter on the front display\n\nInfo Reveals information on the TDAI-2210 front display.\n\nUp/Down Moves up and down in menus.\nBrowses available settings in a menu.\n\nSelect Selects a menu or store a selected setting.\n\nLeft/Right Moves left and right in menus.\nBrowses available settings in a menu.\n\nBack/Exit Returns to the previous menu.\n\nMenu Accesses the user menu.\n\n+/- Turns volume up and down.\n\n```\nMutes and unmutes the sound of the headphones\n```\nMutes and unmutes the sound of the loudspeakers\n\nSRC +/- Toggles between enabled inputs (SRC = Sources)\n\nPlays/pauses the currently playing track in the media player.\n\n```\nSkips in the current playlist in the media player.\n```",
+      "page": 12
+    },
+    {
+      "title": "Introduction: Touchscreen Display",
+      "content": "The touchscreen display shows the power status of the TDAI-2210 and allows to set it up and operate it.\n\nWith this display you can also operate the TDAI-2210 without any network connection.\n\n**Lyngdorf logo as status indicator**\nThe Lyngdorf logo on the left side of the display indicates the status of the TDAI- 2210.\n\n**Logo not visible:** TDAI- 2210 has no connection to mains power (power OFF mode).\n**Dimmed logo:** TDAI-2210 is in power standby mode.\n**Bright logo:** TDAI- 2210 is in power ON mode.\n**Flashing logo:** TDAI-2210 is updating, in starting mode, or going in and out of standby mode.\nUser operation is not possible during this mode.\n\n**Switching on a TDAI- 2210 for the first time**\nSwitch on the TDAI-2210 with the STANDBY button on the right side of the front.\nThe TDAI-2210 will power-up, the display will light up, and guide you through the first-time setup.\nIcons and fields can be selected by touching the screen with your finger tip.\n\nIf used with an Apple device and wireless network, follow the configuration. Otherwise, click Cancel.\n\nThe start screen shows the\n\n**Switching on an already set-up TDAI- 2210**\nSwitch on the TDAI-2210 with the STANDBY button on the right side of the front.\nThe TDAI-2210 will power-up, the display will light up and show the volume level, selected input, and further\nsetting options. Icons and fields can be selected by touching the screen with your finger tip.",
+      "page": 13
+    },
+    {
+      "title": "Introduction: Remote Control App “My Lyngdorf”",
+      "content": "For devices that support Android™ or iOS, you can download the Lyngdorf remote application “My Lyngdorf”,\nwhich will allow you to operate the TDAI- 2210.\n\n**Installing and using the remote control app with a TDAI-2210 wired to the network (LAN)**\n\n1. Visit the app store. Search, download, and install: **My Lyngdorf App**\n2. Connect the TDAI-2210 to the network via LAN cable directly to find it in the app straight away.\nOpen the app, select your TDAI-2210 and proceed.\n\n**Installing and using the remote control app with a TDAI- 2210 used wirelessly (WLAN)**\n\n1. Visit the app store. Search, download, and install: **My Lyngdorf App**\n2. Use the TDAI-2210 touchscreen display first and follow the shown Setup Guide including setting up a\nwireless Network Connection. After that you will be able to use the remote app.\n\nSee “Setting up the TDAI-2210 for the first time” on the following pages.",
+      "page": 14
+    },
+    {
+      "title": "Introduction: Browser App",
+      "content": "Instead of downloading and using the remote control app, the TDAI- 2210 can also be operated using the\nbrowser window of your computer or tablet.\n\n1. Connect the TDAI-2210 to the network via LAN cable, or use the wireless setup in the touchscreen menu.\n2. Open the brower window on your computer or tablet and type in:\n\n**tdai2210.local**\n\nAlternatively, to access the TDAI- 2210 browser app use the provided remote control, press the Info button,\nand note the IP address shown on the TDAI-2210 display. Open a browser window and type in the **IP address.**\n\n1. Open the browser app. Click the white On icon bar, or one of the inputs icons to switch the TDAI-2210 on.\n2. The dashboard will now show all main controls to operate the TDAI-2210.\n3. To enter the setup menu of the TDAI-2210, click the white setup wheel icon top right.\nTo leave the setup menu and return to the dashboard again, click the white x icon top right.",
+      "page": 15
+    },
+    {
+      "title": "TDAI-2210 first time installation and setup",
+      "content": "```\nAlways turn off the TDAI- 2210 and other components in the system before connecting or\ndisconnecting loudspeakers or any other electronics.\n```\n**After unpacking the TDAI- 2210 , follow these steps for the first time setup** :\n\n1. While the TDAI-2210 is still disconnected from mains power, connect the left and right speakers to the\n    speaker output connectors on the back (unless the TDAI-2210 is used as a pre-amp or processor only).\n2. Connect your external devices, for example audio sources or a TV.\n3. If possible, connect the TDAI-2210 to your local network using an ethernet network cable (LAN).\n4. Connect the mains cable to the connector on the back panel.\n    The TDAI- 2210 will now automatically boot the internal processor and then go into stand-by mode.\n5. Switch on the TDAI-2210 with the STANDBY button placed on the right, or by using the remote control.\n    The front display and the Lyngdorf logo on the left side will light up.\n\nThe TDAI-2210 can now be used and is ready for the first time setup in three different ways:\n\n**1) Touchscreen display.** When the TDAI-2210 is switched on for the first time, the display will automatically\nguide you through the Setup Guide.\n\n**Note:** After unpacking, the touchscreen is covered with a protection foil. Please remove the foil before use.\n\nThe Setup Guide will offer you to add the TDAI- 2210 to your network either over\na) Apple Wireless Accessory Configuration\nb) Available wireless Network Connections (WLAN)\nc) Ethernet Network Connection when the TDAI-2210 is already wired to your router (LAN).\n\nIf you don’t want to add the TDAI-2210 to your network, you can click the white X top right on the screen and\nd) Continue setup without network connection\n\nAfter this setup is completed, click Finish. Your TDAI-2210 is ready to be used.\n\n**2) Remote app “My Lyngdorf”.** If your TDAI-2210 is connected to your home network with an ethernet cable\n(LAN), you will be able to find the TDAI-2210 in the app straight away. Select your TDAI-2210 and proceed the\nSetup Guide as shown in the app.\n\n**3) Browser app.** If your TDAI-2210 is connected to your home network with an ethernet cable (LAN), you can\nuse the browser window of your computer, tablet or smartphone y to operate the TDAI-2210. Open the\nbrower on your device, and type in:\n\n**tdai2210.local**\n\nAlternatively, to access the TDAI-2210 browser app use the provided remote control, press the Info button,\nand note the shown IP address. Open a browser and type in the **IP address.**\n\n**After the first time setup, please continue and complete the TDAI- 2210 setup as on the following pages.**",
+      "page": 16
+    },
+    {
+      "title": "Touchscreen",
+      "content": "",
+      "page": 17
+    },
+    {
+      "title": "Screensaver",
+      "content": "The default screensaver shows the current volume level and the currently chosen input.\nThe type of screensaver can be changed in the Setup menu.\nVolume in dB\nInput",
+      "page": 18
+    },
+    {
+      "title": "Main Setup Screen",
+      "content": "A tap on the screensaver switches to main screen and shows further information\nin one of menus on the sidebar.",
+      "page": 19
+    },
+    {
+      "title": "Home",
+      "content": "",
+      "page": 20
+    },
+    {
+      "title": "Inputs",
+      "content": "**Setup**",
+      "page": 21
+    },
+    {
+      "title": "Home",
+      "content": "**Volume / Mute**\nThe number shows the volume level in dB from -99 db (quiet) over 0 dB to +20 dB (default maximum level).\nThe maximum volume level can be limited in the Setup menu, for example to prevent too loud listening levels.\n\nA tap on the volume level mutes the signal. The next tap unmutes the signal.\n\nNote: In recording studios and digital audio, 0 dB marks the full signal. Negative -dB numbers represent a\nreduction in signal down to the minimum, while positive +dB numbers mean additional gain is applied.\n\n**Voicing**\nThe chosen sound Voicing is named and visualized by the line.\nA tap on the Voicing line opens the Voicing menu to select, change, or add a Voicing.\n\n**Controls**\nControls shows the chosen tone controls for Bass, Treble, and Balance.\nA tap on Controls opens the tone control menu. Set the desired sound and confirm.\n\n**RoomPerfect**\nRoomPerfect shows the currently chosen listening mode, allows to run the RoomPerfect setup guide, or\nchanges the RoomPerfect listening mode between Bypass, Focus, Global.",
+      "page": 22
+    },
+    {
+      "title": "Inputs",
+      "content": "**Input**\nTap to show all available inputs by name and icon, and the currently selected input top left.\n\n**Radio**\nTap to show the radio menu. Scroll or search and tap a radio station to play it.\n\n**Podcasts**\nTap to show the podcast menu. Scroll or search and tap a podcast to play it.\n\n**Storage**\nTap to access a local storage, for example a USB memory, and play music files directly.\nIf no storage device is connected, or the device or files cannot be read, no information is shown.",
+      "page": 23
+    },
+    {
+      "title": "Setup",
+      "content": "**Device**\n\nName The TDAI-2210 name can be customized to find and differentiate it.\n\nPower & Standby The time to standby, Network standby mode, and Trigger input can be set.\n\nDisplay Brightness, screensaver and display type can be set.\n\nTheme Dynamic color and dark screen or light screen can be set.\n\nInputs Inputs can be disabled, enabled, renamed, and customized.\n\nHDMI HDMI CEC settings can be changed.\n\nRemote Control The infrared (IR) receiver for remote controls can be enabled or disabled.\n\n**Sound**\n\nVolume A maximum volume level and a default volume level can be set.\n\nRoomPerfect Enters the RoomPerfect menu.\n\nOutput Settings Main speaker outputs, analog pre-outputs and the digital output can be set.\n\nHeadphones Enters headphone menu\n\nPolarity Inversion Sets polarity in left and right channels\n\nEnhancements Sets ICC (Intersample Clipping Correction) and Subsonic filter\n\n**Network**\n\nWi-Fi Shows the connection to an existing Wi-Fi network.\n\nEthernet Shows the connection to an existing wired network (requires network cable)\n\nStreaming Sets how external music streaming players can control the TDAI- 2210\n\n**Software**\n\nUpdates Shows software update options and allows updating.\n\nData Allows to create or restore a backup from an attached USB memory.\n\nSystem Allows to reboot the TDAI-2210, reset the user interface, or full factory reset.",
+      "page": 24
+    },
+    {
+      "title": "Device: Inputs Setting",
+      "content": "You can edit and customize the settings for each input.\n\n**Hide Input**\nYou can disable unused inputs to limit the number of shown inputs in the list.\nPress Hide to disable this inout.\nAll disabled inputs show under Disbled inputs, and can be activated by pressing Enable Input.\n\n**Change Name**\nYou can change the name to indicate the connected equipment. For example, rename the HDMI input to the\nname of the device (i.e. “Sony” or “Apple TV”), or rename the analog input (i.e. “Vinyl” or “Tape”).\n\n**Icon**\nYou can change the shown icon for a specific input. For example, use a Projector symbol for the HDMI port, or\na Cassette symbol for the analog input.\n\n**Voicing**\nYou can assign a default Voicing to each input.\nNo Change will always keep a currently set Voicing when this input is selected.\nChoosing a Voicing from the list will activate that Voicing whenever this input is selected.\nNote: See later section about designing Voicings.\n\n**Lipsync**\nYou can set an audio delay time between 0 – 500 ms (milliseconds) to ensure that the video and audio signals\nare played back simultaneously. The correct delay has to be found by watching a lipsync-critical scene.\n\n**Sensitivity**\nEnables you to match the volume levels between inputs. If an audio source has a lower output gain (has a\nlower volume level), increase the sensitivity of this input up to +24dB.\n\n**Home Theater**\nTurns the amplifier into a power amplifier when using this input. This feature bypasses the volume control\nwhen the input is chosen, and the TDAI- 2210 plays on maximum volume level.\nWhen switching back to other inputs, the TDAI- 2210 returns to the last current volume level.\n\n```\nWarning:\nHome Theater mode bypasses the volume control and sets it to maximum level. Do NOT choose\nthis setting with an unregulated signal or any audio source without volume control (for example CD\nPlayer)! The amplifier will get very hot. Make sure the TDAI-2210 has enough ventilation.\n```\nThis feature might be selected if you are using the TDAI-2210 in a home theater setup where it is used to\npower and calibrate the front speakers and/or subwoofer. Connect your home theater processor to the\nselected input.",
+      "page": 25
+    },
+    {
+      "title": "Sound: Volume Settings",
+      "content": "**Maximum volume**\nThe maximum volume setting is a safety precaution used for limiting the maximum volume which can be\nachieved by spinning the wheel or increasing volume via the remote. This can be set to protect your\nloudspeakers against overload.\n\n**Default volume**\nThe default volume setting controls the default volume when the TDAI-2210 is switched on.",
+      "page": 26
+    },
+    {
+      "title": "Sound: RoomPerfectTM",
+      "content": "**Introduction to RoomPerfect™**\nRoomPerfect™ is designed to analyze and correct for the negative effects that the listening room has on the\nspeaker sound.\n\nIt is very difficult to design a perfect listening environment with a symmetrical setup and a perfect\nreverberation time without reflecting surfaces like windows. A traditional setup of speakers requires uneven\ndistances to back and side walls to avoid having the reflections arrive to the listening position at the same\ntime, as this would have a negative effect to the frequency response. Having strong reflections after each\nother is though causing smearing of the sound and reduces the overall dynamic performance.\n\n**Focus position**\nThe focus filter improves the sound quality at a specific listening position. This makes the focus filter the best\nsolution for optimal sound quality at a single listening position. A total of 8 focus positions can be stored after\nthe initial calibration.\n\n**Global filter**\nThe global filter improves sound quality across the whole room. When you are moving around a room, the\nglobal filter gives the best result.\n\nNote: See our website for more detailed information, FAQ and videos about RoomPerfect.\n\n**How to set up RoomPerfectTM**\nNote: The RoomPerfect™ microphone is a very sensitive and finely calibrated device which must be treated\nwith utmost care. If the microphone has been dropped on the floor, it may be damaged. If this is the case,\nobtain a new microphone from your Lyngdorf Audio representative before performing the system calibration.\n\n**RoomPerfect™ Preparations**\n\n- Place the RoomPerfect™ calibration microphone on the stand. Be sure to fasten the screws properly so\n    the microphone does not move during a measurement.\n- Plug the supplied microphone cable into the microphone.\n- Connect the microphone cable to the TDAI- 2210.\n\n\n**Placing the Microphone in the Focus Position**\nWhen you are prompted to place the microphone in the focus\nposition, connect the microphone to the microphone input on\nthe front of the TDAI-2210 and place the microphone, using the\nmicrophone stand, in your primary listening position. The height\nand the orientation of the microphone should correspond to\nyour head’s height and direction.\n\n**Volume Setting**\nPress Enter and a test signal will start from the left speaker. The\nsystem will give an estimated optimal volume for calibrating the\nsystem or will accept the current volume. Adjust the volume if\nrequired by the system and retry the measurement.\n\nThe calibration volume should not be so loud that it is inconvenient to you, or that it causes damage to your\nloudspeakers. If this is the case, set it to a lower and more appropriate level. A low volume can result in a\nlonger calibration time or a measurement time-out. A low volume and long measurement will not affect the\nquality of the result.\n\nIf the system continues to require higher signal level, the problem could be a defective adaptor, cable or\nmicrophone.\n\n**Measuring the Focus Position**\nWhen the calibration volume has been set, RoomPerfect™ will send a range of pure tones to measure the\nfocus position. If there is noise in the room, the measurement may take longer. This will not affect the quality\nof the result.\n\n**Measuring Random Room Positions**\nWhen the focus position has been measured, the next step is to measure the acoustical properties of the\nroom. It is important to perform well spaced measurements to get a comprehensive image of the acoustical\nproperties of the room. See RoomPerfect™ troubleshooting if the measurement stops prematurely.\n\nKeep taking measurements until RoomKnowledge reaches 90%.\n\nNote: RoomKnowledge relates to the level of new information in the last measurement – if there is little new\ninformation, the system will translate it to the fact that it knows nearly everything. When the RoomKnowledge\ndoes NOT increase after a measurement, it means that the measurement gave a lot of new information to the\ncalibration!\n\nThese are the guidelines when measuring the room:\n\n- The microphone should be in random and varying positions, heights, and orientations.\n- Point the microphone up/down/sideways – the more random positions the better.\n- The measurements should cover the primary listening area.\n- Do not take measurements behind plants, furniture, etc.\n\n\n_Side view of room_\n\n- The microphone should not be closer than 0.5m/1.5ft from the floor, ceiling, and walls.\n- The microphone should be at least 1m/3ft from the front of the loudspeakers.\n- There should be at least 0.5m/1.5ft between each measurement.\n- Do not take symmetrical measurements in the room.\n\n_Top view of room_\n\nTo fully optimize the systems understanding of the room’s acoustical properties, we recommend you keep\ndoing measurements until the RoomKnowledge is above 95%. The higher the RoomKnowledge, the more\naccurate the room correction filters will be.\n\nNote: The RoomKnowledge is calculated from the amount of NEW information is in the measurement\ncompared to the data already stored. It is therefore the target to have as SLOW an increase in\nRoomKnowledge as possible.\n\n**Calculation of Focus and Global Filters**\nWhen room measurements are complete, the system will calculate the focus and global filters automatically.\n\nNote: We recommend that you ALWAYS save a Backup of TDAI-2210 settings after having performed a\nRoomPerfect™ calibration (see Manage Software in the Setup section).",
+      "page": 27
+    },
+    {
+      "title": "Sound: Output Settings",
+      "content": "The Output setup allows to select and customize speakers and woofers, and to set up the analog and digital\npre outs.\n\nThe frequency graphics and connections diagrams on the touchsceen or in the app will help you to find the\nright crossovers, EQ, and levels.\n\n```\nWarning:\nBoth the + and – speaker outputs of the TDAI-2210 carry voltage.\nNever run the TDAI-2210 in Bridge Mode with another amplifier!\nNever connect the speaker outputs to High Level inputs of a subwoofer amplifier!\n```\n**Setup**\n\nThe Setup menu offers three different options:\n**Standard\nCustom\nPreamp**\n\n**Standard**\nStandard is for a classic 2-channel stereo setup with two loudspeakers, left and right.\n\nSelect Generic for any kind or brand of loudspeaker.\n\nSelect one of the Lyngdorf speaker models to optimize the sound performance. This will add an equalizing\nfilter designed for the selected speaker.\n\n**Custom**\nCustom is for speaker-subwoofer systems and other individual speaker setups.\n\nSelect Generic for any kind or brand of loudspeaker.\n\nSelect one of the Lyngdorf speaker models to optimize the sound performance with an equalizing filter\ndesigned for this speaker when used together with the subwoofer chosen next.\n\nSelect No Subwoofers if you are only using two loudspeakers.\n\nSelect Custom Subwoofers if you are using 1 or 2 Subwoofers together witht the loudspeakers. Next, select\nhow the subwoofer is amplified by selecting Generic Amplifier or choosing one of the Lyngdorf amplifers. Next,\nselect how you have connected the amplifier by RCA, XLR, or Digital. Next, set a crossover frequency between\nspeakers and subwoofers.\n\nNote: The default crossover frequency is 80 Hz. It can be changed in the following steps. The ideal frequency is\ndetermined by the frequency response of the loudspeakers and the frequency response of the subwoofer.\n\n**Preamp**\nPreamp is for using the TDAI-2210 as a pre-amplifier, music streamer, or RoomPerfect processor.\n\nNote: The power amp section (speaker outputs) will be disabled when using the TDAI-2210 in Preamp mode.\n\nYou can set the analog output and the digital output individually to match your system as follows:\n\n\nOutput Off Output is not used. No signal at the output.\n\nFull Range Provides the complete frequency signal with volume regulation, tone controls,\n\n```\nVoicings, RoomPerfect calibration\n```\nLow Pass Provides only lower frequencies with volume regulation, tone controls,\n\n```\nVoicings, RoomPerfect calibration\n```\nHigh Pass Provides only higher frequencies with volume regulation, tone controls,\n\n```\nVoicings, RoomPerfect calibrated\n```\nTape Out / Line Out Provides the complete frequency signal with no volume regulation (full signal\n\n```\nlevel), no tone controls, no Voicings, no RoomPerfect calibration\n```\nHeadphone Amplifier Provides the complete frequency signal with no volume regulation (full signal\n\n```\nlevel), tone controls, Voicings, no RoomPerfect calibration\n```\n**Distance**\n\nWhen a speaker-subwoofer system is set, Distance allows to align different distances of speakers and woofers\nin relation to the listening position.\n\nMeasure the distance between the main listening position (listner’s head) and the front of the left and right\nspeaker, and type in the number in cm or inches.\n\nMeasure the distance between the main listening position (listner’s head) and the back conrner of the\nsubwoofer, and type in the number in cm or inches.\n\nThe difference will then be automatically aligned in the DSP (Digital Signal Processor), so that speakers and\nwoofers integrade as good as possible better.\n\n**Verify**\n\nUse Verify to check whether all speakers and woofers are set up and connected correctly.\nThis function will first play a signal on the left speaker, then on the right speaker, then on woofers (if set up).\n\nIncrease the volume level so that you can clearly hear the signal, then verify and compare all channels.\nIf you miss one signal, first check all connections and wires. Second, check whether the selected speaker setup\nand woofer setup in the Output menu matches your actual speaker system.\n\n**Main**\n\nThe Main output menu sets the crossover, level, and sound EQ for the main speakers.\n\n**Crossover**\nRouting:\n\n- Full-range: Allows the incoming signal to pass unfiltered.\n- High pass: Removes the frequencies below the crossover frequency and lets high frequencies pass.\n- Low pass: Removes the frequencies above the crossover frequency and lets low frequencies pass.\n\nFrequency:\nThe number sets the crossover frequency for the routing in Hz.\n\n\nThe ideal frequency is determined by the frequency response of the loudspeakers and the frequency response\nof the subwoofer. For traditional setups the frequency should be the same for both Main and Preout.\n\nFilter:\n\n- LR 2nd, 4th or 8th order.\n- BW 1st, 2nd or 4th order.\n\nThe references LR and BW refers to the inventors of modern crossover designs, Linkwitz Riley and\nButterworth. The filter order refers to how the high pass and low pass outputs interact with each other, and to\nthe steepness of the filter curve. The curve shown in the app or touchscreen will indicate the characteristic.\n\n**Level**\nReduce the signal level for the main speaker output with up to 24 dB to match the levels of the pre output.\n\n**Speaker EQ**\nYou can select any of the built-in equalizer filters or select “Custom” for designing your own filter to optimize\nthe sound from your speakers.\nA custom speaker EQ is optional and only required if your speaker has no internal crossover filters, or if you\nwant to change the sound of your speakers.\n\n**Advanced: Analog Out and Digital Out**\n\nThe Analog and Digital output menu sets the crossover filter, level, amp delay, signal, and sound EQ for the\nanalog or digital pre-out. The default setting for the analog and digital output is Off.\n\n**Crossover**\n\n- Full Range: allows the signal to pass unfiltered.\n- High pass: Removes the frequencies below the crossover frequency and lets high frequencies pass.\n- Low pass: Removes the frequencies above the crossover frequency and lets low frequencies pass.\n\nFrequency:\nThe number sets the crossover frequency for the routing in Hz.\nThe ideal frequency is determined by the frequency response of the loudspeakers and the frequency response\nof the subwoofer. For traditional setups the frequency should be the same for both Main and Preout.\n\nFilter:\n\n- LR 2nd, 4th or 8th order.\n- BW 1st, 2nd or 4th order.\n\nThe references LR and BW refers to the inventors of common crossover designs, Linkwitz Riley and\nButterworth. The filter order refers to how the high pass and low pass outputs interact with each other, and to\nthe steepness of the filter curve. The curve shown in the app or touchscreen will indicate the characteristic.\n\n**Level**\nReduce the signal level for the main speaker output with up to 24 dB to match the levels of the pre output.\n\n**Amp Delay**\nAmp Delay takes care of the signal delay (latency) of external amplifiers.\nFor example, if you have an active subwoofer with internal signal processing (DSP) or a separate\nAmplifier with internal A/D or D/A conversion, there may be a electronic signal delay in these products.\n\nRequest the internal signal delay (latency) in ms (milliseconds) of the connected amplifier, active subwoofer, or\nDSP from the manufacturer, and type-in the number in Amp Delay. This will time-align the main speakers with\nthe pre-out and lead to a better sound integration.\n\n\n**Level Control**\nFull scale: The pre-out gives the full signal level from the audio source, independent from the volume control.\nRegulated: The pre-out follows the volume control level set for the main speaker outputs.\n\n**Signal Output**\nMono: The pre-out will provide a mono signal.\nStereo: The pre-out will provide a stereo signal.\n\n**Speaker EQ**\nYou can select any of the built-in equalizer filters or select “Custom” for designing your own filter to optimize\nthe sound from your speakers or subwoofer.\n\n**Advanced: 2nd Speaker Setup**\n\n**Add a 2nd speaker setup**\nHere you have the option to store a second speaker setup. This will allow you to test another speaker setup or\nto store and keep two calibrated setups for general use – example: with and without a subwoofer.\n\nEnabling this will start the Guided Speaker Setup and RoomPerfect calibration for the 2nd speaker setup.\nWhen complete, the menu item Speaker Setup will be available in the main menu, allowing you to easily\nswitch between the two setups.",
+      "page": 28
+    },
+    {
+      "title": "Tips for setting up speakers",
+      "content": "**Stereo triangle**\nYou can use the stereo triangle as a good rule of thumb\nwhen determining where to place your speakers. The\ndistance between the speakers should be the same as\nthe distance from your listening position to both\nspeakers.\n\nTip: You can reduce reflections from the hard floors and\nhard surface walls by positioning a carpet, painting, a\nbookshelf, or other furnishings between you and the\nspeakers. These objects act as diffusers.\n\nFind the position of the diffusers by having someone hold\na mirror flat against the wall or floor. When you can see\nthe speaker in the mirror from the listening position, you\nhave found the optimal position for the diffuser.\n\n**Speaker placement / Traditional box speakers**\nFor an optimal listening experience with a RoomPerfect™\ncalibration, we recommend you place your speakers\nagainst the wall, opposite from your preferred listening\nposition. This will ensure the wall reflection and the direct\nsound will reach your ears at the same time, giving you\nperfect timing and impulse response.\n\nIf your speakers have a bass-reflex port on the back, you\nshould allow for a 5cm/2in clearance to the back wall. This\nwill ensure there is no disruption to the functionality of the port.\n\n**Subwoofer placement**\nWith a single subwoofer, we recommend placing the\nsubwoofer against the wall between the main\nspeakers.\n\nWith two subwoofers, you should position one in\neach front corner, in line with the main speakers.\n\nNote: As the Phase, Cut-Off Freq. and Level is now\ncontrolled by the TDAI- 2210 , you should set the controls of connected subwoofer(s) to neutral: Phase: 0, Cut-\nOff: Maximum and Level at 50% of maximum. When connecting the Lyngdorf boundary woofers, you should\nconnect the analog outputs to the BYPASS input of the woofer.\n\n**Measuring distances**\nWhen measuring the distance to your main speakers,\nmeasure from the preferred listening position (the\nfocus position) to the front of the speakers.\nWhen measuring the distance to a subwoofer,\nmeasure from the preferred listening position to the\nback corner of the subwoofer.\n\nNote: Always perform a new RoomPerfect™ calibration when you have changed speaker or subwoofer\nplacement, or changed settings in the Output setup.",
+      "page": 29
+    },
+    {
+      "title": "Sound: Headphones",
+      "content": "Startup sets a default volume level.\n\nMax limits the maximum volume level, for example to prevent high levels from damaging the headphones.\n\nMute at power on if headphones are connected. This function allows you to control, if the headphone\nconnector should control the mute function on your speakers.",
+      "page": 30
+    },
+    {
+      "title": "Sound: Polarity Inversion",
+      "content": "Polarity inversion is equal to changing + and – on the cables to the loudspeakers. You can do this individually\nfor each speaker.",
+      "page": 31
+    },
+    {
+      "title": "Sound: Enhancements",
+      "content": "**ICC (Intersample Clipping Correction)**\n\nCan be set to enabled or disabled.\n\nDigital audio tracks normally exceed 0 dBFS (decibels relative to full scale), why they will be clipped when\nbeing upsampled or otherwise processed in the audio chain, resulting in distortion.\n\nWith ICC enabled the TDAI-2210 will dynamically allow for extra headroom to avoid clipping during processing\nthe audio signal.\n\nChanging inputs or going into standby mode will reset the ICC level.\n\n**Subsonic Filter**\n\nCan be set to enabled or disabled.\n\nA subsonic filter, also called rumble filter, is a high pass filter which cuts frequencies below 20 Hz. It can be\nused to prevent a turntable and the woofers or subwoofers from influencing each other.\n\nFor example, LPs can have warps wich cause the woofer to have large excursison in the subsonic frequencies\nbelow 20 Hz. Turntable placement, room vibrations, and floor vibrations can cause a similar effect.\n\nSince frequencies below 20 Hz are not easily audible, activating the subsonic filter can prevent the woofer\nexcursion, lower the distrotion, increase amplifier efficiency, and improve the overal sound performance.",
+      "page": 32
+    },
+    {
+      "title": "Network",
+      "content": "**Wi-Fi (Wireless connection)**\nSee the Wi-Fi status or set up a new connection by locating nearby networks.\n\n**Ethernet**\nShows IP addresses and MAC address of the TDAI-2210.\nEnter this IP address in a browser to see the amplifiers setup menu.\nAllows for setting a Static IP address instead of the default DHCP (Dynamic)\n\n**Streaming**\nIn this menu you can configure the basic setup of the music streaming:\n\n- Streaming players can control volume: Set to Active or Inactive.\n- Streaming players can change input source: Set to Active or Inactive.\n- Streaming players can power on the device from standby mode: Set to Active or Inactive.\n- Password sets a passowrd to restrict access to Airplay streaming",
+      "page": 33
+    },
+    {
+      "title": "Software",
+      "content": "**Updates**\n\nIn this menu you will see the curent software version on the TDAI- 2210 and show an update, if available.\n\nNote: In case the web interface is not accessible, or a fault in the update process has made the amplifier\ninaccessible, you can force a new software onto the TDAI- 2210.\n\nForced Software Update\n\n1. Save the new software on a FAT formatted USB drive.\n2. Insert the USB drive into the “SW Update” connector on the back of the TDAI- 221 0.\n3. Turn off the TDAI-2210 by disconnecting the mains power on the back of the device.\n4. Hold down the standby button on the front and connect the mains power again.\n5. When the Lyngdorf logo starts flashing, release the standby button and the TDAI-2210 will update the\nsoftware. When the update is finished, the amplifier goes into standby.\n\n**Data**\n\nBackup\nWhen a USB device is inserted in the connector on the rear of the TDAI-2210, this menu will allow you to store\na complete backup of settings aincluding the RoomPerfectTM calibration. This will allow you to restore the\namplifier to this specific setup at a later date.\nNote: You can store several Backups. Make sure you enter useful backup file names to separate the versions.\n\nRestore\nIf a backup file is available on USB, you can select and load it.\n\n\n**System**\n\nReboot\nSets the TDAI-2210 to standby and starts it up again. This process closes all running programs and resets the\nsystem to its last state and setting.\n\nReset UI\nResets the user interface, screen and cache to default settings.\n\nFactory Reset\nShuts down the system and returns to default factory settings.\n\n```\nWarning: All user preference settings, system data, and RoomPerfect data are lost when restoring\nto default settings! If you want to keep the settings, choose Reboot.\n```\nThe Factory reset is also possible over the front panel. If you press and hold the Standby button for more than\nfive seconds and release the button, he TDAI-2210 will initiate a factory reset.\n\nIf you have pressed the Standby button for more than five seconds by mistake, you can avoid the factory reset\nby holding the Standby button for an additional five seconds. This will skip the factory reset initiation.",
+      "page": 34
+    },
+    {
+      "title": "Voicings: How to select and set up Voicings",
+      "content": "A Voicing is a sound equalizing filter that can be activated to amplify or attenuate certain frequencies\naccording to your personal preferences. A Voicing can be set for the TDAI-2210 in general, and assigned to\neach input individually, for example emphasize bass on one input without sacrificing neutrality on others.",
+      "page": 35
+    },
+    {
+      "title": "Voicings",
+      "content": "The TDAI-2210 comes with 14 Voicing presets.\nThe names and the shown equalizing curves indicate the sound character.\n\nNeutral Default Voicing with no change in tonal balance.\n\nMusic Dampens the midrange to compensate for recordings that would otherwise sound too harsh.\n\nMusic 2 Further dampens the midrange and removes harshness.\n\nRelaxed Dampens the low and midrange frequencies.\n\nOpen Dampens the low frequencies.\n\nOpen Air Further dampens the low frequencies.\n\nSoft Dampens upper tones slightly, making bright tracks warmer and more balanced.\n\nAction 1 Enhances the lower frequencies.\n\nAction 2 Further enhances the lower frequencies.\n\nMovie Dampens the high frequencies.\n\nAction Movie Enhances the lower frequencies and dampens the high range frequencies.\n\nNews Cuts low frequencies for live broadcasting, sports, news, and improves speech intelligibility.\n\nBass 1 Enhances the lower frequencies and dampens the midrange to compensate for recordings that\n\n```\nwould otherwise sound too harsh.\n```\nBass 2 Further enhances the lower frequencies and dampens the midrange to remove harshness.\n\n**Creating Custom Voicings**\nA Voicing can combine up to eight filter sections. For each section, you can choose between certain filter\ndesigns, which then in combination will give you the total correction of the Voicing.\nFor each Voicing you will see a green line showing the total correction as well a blue line showing the\ncorrection caused by the selected filter section. If there is only one active filter section, only the blue line is\nshown. You can select between following filter designs:\n\n- Low Pass: Functions as a crossover filter reducing the signal above the frequency.\n- High Pass: Functions as a crossover filter reducing the signal below the frequency.\n- Low Shelf: Attenuates the lower frequencies to a specified level.\n- High Shelf: Attenuates the higher frequencies to a specified level.\n- Parametric: Changes a specific frequency.\n\nAll these filters can be with positive or negative gain – effectively reversing the effect of the filter.\n\nYou can adjust the Overall gain for each voicing in order to be able to switch between Voicings without\nexperiencing any change in perceived volume level.\n\nTry experimenting by creating your own Voicings and test the functionality of the different filter sections.\n\n\n**Exporting and Importing Voicings**\nIt is now possible to download single voicings to a file and to add new voicings by uploading those files as well.\nThis will make it possible to copy a voicing from one device to another. The file format is identical for all\nenabled Lyngdorf products, so if you have a voicing you like on your TDAI-2210 amplifier, it is possible to add\nthat to your Lyngdorf multichannel processor or vice versa.\n\nYou can also download and upload an entire set of voicings. Again, these files will work throughout the devices\nwhich support this feature.\n\nNote:\nUploading a set of voicings with this feature will replace all voicings in the amplifier.\nSingle voicing files have the extension **single_voicing.xml** , and this must not be changed.\n\n**Edit or delete Voicing**\nThis dropdown list contains the voicings currently in the amplifier. Selecting a voicing in the list will allow you\nto delete or edit the selected voicing (this will open the voicing editor)\n\n**Add new Voicing**\nTo create a new custom Voicing using the Voicing editor, enter the name of your new voicing and press Add.\nTo add a voicing from a single_voicing.xml file, browse for the file and then Click “Add”.\n\n**Replace all Voicings from file**\nThis is the functionality to replace all voicings in the amplifier with a new set from a voicings.xml file.\nRemember that this will overwrite all voicings currently in the amplifier. Click “Browse” to find the voicings.xml\nfile you wish to upload and then click “Apply” to use it.\nOn the bottom of the page is a link to download the current set of voicings in the amplifier to a voicings.xml\nfile.\n\nThrough selecting any of the stored Voicings, you can see the details by selecting “Edit”. You can also delete\nthe stored Voicings and add new designs here.",
+      "page": 36
+    },
+    {
+      "title": "Music Streaming Services",
+      "content": "**Google Cast**\nGoogle Cast is a feature that lets you stream your favorite music from your phone, tablet or laptop right to\nyour speakers. Easily control your speakers with apps you already know and love from your Android phone or\ntablet, iPhone®, iPad®, Mac® or Windows® laptop, or Chromebook.\n\nPlease use your Google Home application to accept Google Terms of Service and Google Privacy Policy\nhttps://policies.google.com/privacy?hl=en\n\nGoogle, Android, Google Cast, and other marks are trademarks of Google LLC.\n\n**Spotify Connect**\nUse your phone, tablet or computer as a remote control for Spotify. Go to _spotify.com/connect_ to learn how.\nThe Spotify Software is subject to third party licenses found here: https://developer.spotify.com/third-party-\nlicenses#embedded-sdk-third-party-licenses\n\n**Tidal Connect**\nWhen the TDAI-2210 is connected to your local network, it will be available from your Tidal Connect enabled\ndevices in the Tidal app (requires a Tidal account). To read more about Tidal services go to:\nhttps://tidal.com\n\n**Qobuz Connect**\nWhen the TDAI-2210 is connected to your local network, it will be available from your Qobuz Connect enabled\ndevices in the Qobuz app (requires a Qobuz account). To read more about Qobuz services go to:\nhttps://qobuz.com\n\n**Roon**\nUse your Roon control app to initiate streaming. To read more about Roon services go to:\nhttps://roonlabs.com.\n\n**UPnP**\nThis function allows you to select and play music files in UPnP enabled libraries on your local network.\nYou might have problems in accessing files as UPnP a set of protocols and not a defined standard. The\nimplementation of UPnP is therefore not always fully functional for media playback.\n\n**USB storage**\nThis function allows you to select and play music files on attached USB devices and flash memory (requires\nFAT32 format). Use the Storge input icon to access the folders.\n\n**airable**\nThis function allows you to access internet radio stations and podcasts around the world. You can search\nstations and podcasts through references to genre or geographical relation. When a station or podcast is\nplaying, you can assign it to one of the 10 presets. They will appear as a new input for direct selection.\nhttps://www.airablenow.com\n\n**AirPlay 2**\nThe TDAI-2210 has native support for multi-room application under Apple AirPlay. Use your iOS device to\ninitiate individual or simultaneous AirPlay streaming to all TDAI-2210 amplifiers in your setup.\nhttps://www.apple.com/airplay/\n\n**Bluetooth (BLE)**\nSelect the Bluetooth input and the TDAI-2210 can be found in your other devices’ Bluetooth settings.",
+      "page": 37
+    },
+    {
+      "title": "Music Streaming Formats and Codecs",
+      "content": "**Overview of supported formats and codecs for the streaming player (stereo only)**\n\nAAC: 64 kbps; 128 kbps; 256 kbps; 320 kbps\n\nAIFF: 44.1 kHz, 16 bit; 48 kHz, 16 bit; 88.2 kHz, 16 bit; 96 kHz, 16 bit; 192 kHz, 16 bit; 384 kHz, 16 bit\n\nALAC: 44.1 kHz, 16 bit; 44.1 kHz, 24 bit; 48 kHz, 24 bit; 48 kHz, 24 bit; Mono 88.2 kHz, 24 bit;\n96 kHz, 24 bit 192 kHz, 24 bit 384 kHz, 32 bit\n\nFLAC: 44.1 kHz, 16 bit; 44.1 kHz, 24 bit; 96 kHz, 24 bit; 192 kHz, 16 bit; 192 kHz, 24bit; 384 kHz, 24 bit\n\nMP3: 96 kbps, 32 kHz; 128 kbps, 44.1 kHz; 192 kbps, 44.1 kHz; 256 kbps, 44.1 kHz 320 kbps;\n\n```\n44.1 kHz 320 kbps; 48 kHz VBR, 44.1 kHz VBR, 48 kHz\n```\nOgg Vorbis: 44.1 kHz 48 kHz 88.2 kHz 96 kHz 192 kHz\n\nWAV: 44.1 kHz, 16 bit; 48 kHz, 16 bit; 48 kHz, 24 bit; 88.2 kHz, 24 bit; 96 kHz, 24 bit; 192 kHz, 24 bit;\n\n```\n384 kHz, 24 bit\n```\nWMA: WMA9",
+      "page": 38
+    },
+    {
+      "title": "HDMI",
+      "content": "**What is CEC?**\nConsumer Electronics Control (CEC) is an HDMI feature designed to allow you to command and control CEC-\nenabled devices that are connected through HDMI, by using only one of the remote controls (for example,\ncontrolling the volume level in the TDAI-2210 by using the remote control of the TV).\n\nThe level of CEC implementation depends on the manufacturer of each product, and even if brand new, not all\nelectronic devices supports CEC. As the television is “CEC master” in a HDMI setup, the CEC implementation of\nthe television will determine, what is possible for the entire system.\n\n**CEC**\nEnables and disables CEC (Consumer Electronics Control) over HDMI.\n\n**HDMI TV Audio Input**\nSwitches to the selected input upon detecting an HDMI Audio signal\n\nNote:\nAs default, CEC is not activated on HDMI to comply with stand-by power regulations. CEC functionality only\nworks with the TDAI-2210 set in Network Stand-By.\n\nCEC is marketed by manufacturers under individual names and designed for promoting the connection of same\nbrand sources. (SONY: Bravia Link, Panasonic: Viera Link, etc.)",
+      "page": 39
+    },
+    {
+      "title": "Technical specifications",
+      "content": "Description: 2 - channel integrated streaming amplifier\n\nPower rating: 2 x 210 W RMS (4 Ohm), 2 x 105 W RMS (8 Ohm)\n\nStandby power consumption: < 0.5W\n\nDimensions (W x H x D): 325 x 102 x 300 mm (incl. connections)\n\n```\n12.8 x 4 x 11.8 inches (incl. connections)\n```\nWeight: 4,8 kg / 10,6 lb\n\nFinish: Matte black\n\nFor the newest and complete technical speciifications please visit the TDAI-2210 product page on our website\n[http://www.steinwaylyngdorf.com](http://www.steinwaylyngdorf.com)",
+      "page": 40
+    },
+    {
+      "title": "Cleaning and maintenance",
+      "content": "The TDAI- 2210 does not require any regular maintenance except to keep its exterior clean. Simply wipe it with\na clean, soft cloth. Do not use cleaner or any liquid directly on the product. A small amount of non-abrasive\ncleaner on the cloth can be used to remove any dirt or fingerprints. Do not use abrasive cleaners or cleaners\ncontaining liquid solvents.",
+      "page": 41
+    },
+    {
+      "title": "Technical assistance",
+      "content": "If you have any questions regarding your Lyngdorf product, please contact your nearest Lyngdorf\nrepresentative or contact Lyngdorf Audio:\n\nSL Audio A/S\nRævevej 3\n7800 Skive\nDenmark\nE-mail: contact@lyngdorf.com\nWeb: [http://www.steinwaylyngdorf.com](http://www.steinwaylyngdorf.com)",
+      "page": 42
+    },
+    {
+      "title": "SL AUDIO A/S • RÆVEVEJ 3 • 7800 SKIVE • DENMARK • WWW.STEINWAYLYNGDORF.COM",
+      "content": "",
+      "page": 43
+    }
+  ]
+}

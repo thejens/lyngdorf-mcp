@@ -1,0 +1,22 @@
+{
+    "model": "TDAI-2210",
+    "capabilities": {
+        "volume": true,
+        "mute": true,
+        "sources": true,
+        "roomperfect": true,
+        "voicing": true,
+        "toneControls": true,
+        "bassControl": true,
+        "trebleControl": true,
+        "balanceControl": true,
+        "playback": true,
+        "streaming": true,
+        "streamTypeDetection": true
+    },
+    "volumeRange": {
+        "min": -999,
+        "max": 120
+    },
+    "notes": "TDAI-2210 is a modern streaming amplifier with touchscreen. Supports all streaming services and full protocol."
+}

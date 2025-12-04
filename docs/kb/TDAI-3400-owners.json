@@ -1,0 +1,953 @@
+{
+  "model": "TDAI-3400",
+  "manual_type": "owners",
+  "toc": [
+    {
+      "title": "[Skriv tekst]",
+      "page": 1
+    },
+    {
+      "title": "OWNER’S",
+      "page": 2
+    },
+    {
+      "title": "MANUAL",
+      "page": 3
+    },
+    {
+      "title": "Table of Contents",
+      "page": 4
+    },
+    {
+      "title": "Congratulations on your purchase of the Lyngdorf TDAI- 3400 amplifier. The TDAI- 3400 will deliver",
+      "page": 5
+    },
+    {
+      "title": "an audio experience that will far exceed your expectations. We thank you for placing your",
+      "page": 6
+    },
+    {
+      "title": "confidence in Lyngdorf Audio.",
+      "page": 7
+    },
+    {
+      "title": "Please read all material carefully prior to installation. If you need additional assistance, contact",
+      "page": 8
+    },
+    {
+      "title": "your local Lyngdorf Audio representative first, or email contact@lyngdorf.com",
+      "page": 9
+    },
+    {
+      "title": "FAQs about the TDAI-3400, how-to videos, and in-depth information about the technologies used",
+      "page": 10
+    },
+    {
+      "title": "in Lyngdorf Audio products can be found on our website",
+      "page": 11
+    },
+    {
+      "title": "WEEE",
+      "page": 12
+    },
+    {
+      "title": "FCC",
+      "page": 13
+    },
+    {
+      "title": "Unpacking the Product",
+      "page": 14
+    },
+    {
+      "title": "Inventory",
+      "page": 15
+    },
+    {
+      "title": "Operating Voltage",
+      "page": 16
+    },
+    {
+      "title": "Ventilation Requirements",
+      "page": 17
+    },
+    {
+      "title": "IP Control",
+      "page": 18
+    },
+    {
+      "title": "Preparing the TDAI- 3400 for Mounting in a Rack",
+      "page": 19
+    },
+    {
+      "title": "+/- Turn volume up and down.",
+      "page": 20
+    },
+    {
+      "title": "SRC +/- Toggle between activated sources.",
+      "page": 21
+    },
+    {
+      "title": "How to Pair Remote Control in Bluetooth Mode",
+      "page": 22
+    },
+    {
+      "title": "For using iPhone or iPad:",
+      "page": 23
+    },
+    {
+      "title": "For using Android phone or tablet:",
+      "page": 24
+    },
+    {
+      "title": "Installation and Operation via IP Interface",
+      "page": 25
+    },
+    {
+      "title": "Input Setup",
+      "page": 26
+    },
+    {
+      "title": "Enable input",
+      "page": 27
+    },
+    {
+      "title": "Enable theater mode",
+      "page": 28
+    },
+    {
+      "title": "Sensitivity",
+      "page": 29
+    },
+    {
+      "title": "Voicing Setup",
+      "page": 30
+    },
+    {
+      "title": "Input delay (Lipsync offset)",
+      "page": 31
+    },
+    {
+      "title": "Preset radio stations",
+      "page": 32
+    },
+    {
+      "title": "Main out / main speakers",
+      "page": 33
+    },
+    {
+      "title": "Line out / sub speakers",
+      "page": 34
+    },
+    {
+      "title": "2nd speaker setup",
+      "page": 35
+    },
+    {
+      "title": "Enable limiter",
+      "page": 36
+    },
+    {
+      "title": "Routing",
+      "page": 37
+    },
+    {
+      "title": "Level",
+      "page": 38
+    },
+    {
+      "title": "Eq",
+      "page": 39
+    },
+    {
+      "title": "Filter",
+      "page": 40
+    },
+    {
+      "title": "Filter Type",
+      "page": 41
+    },
+    {
+      "title": "Frequency (Hz)",
+      "page": 42
+    },
+    {
+      "title": "Verify speaker setup",
+      "page": 43
+    },
+    {
+      "title": "Stereo triangle",
+      "page": 44
+    },
+    {
+      "title": "Speaker placement / Traditional box speakers",
+      "page": 45
+    },
+    {
+      "title": "Subwoofer placement",
+      "page": 46
+    },
+    {
+      "title": "Measuring distances",
+      "page": 47
+    },
+    {
+      "title": "Global filter",
+      "page": 48
+    },
+    {
+      "title": "Focus position",
+      "page": 49
+    },
+    {
+      "title": "RoomPerfect™ Setup",
+      "page": 50
+    },
+    {
+      "title": "Placing the Microphone in the Focus Position",
+      "page": 51
+    },
+    {
+      "title": "Volume Setting",
+      "page": 52
+    },
+    {
+      "title": "Measuring the Focus Position",
+      "page": 53
+    },
+    {
+      "title": "Measuring Random Room Positions",
+      "page": 54
+    },
+    {
+      "title": "Calculation of Focus and Global Filters",
+      "page": 55
+    },
+    {
+      "title": "Exporting and Importing Voicings",
+      "page": 56
+    },
+    {
+      "title": "Edit or delete voicing",
+      "page": 57
+    },
+    {
+      "title": "Add new voicing",
+      "page": 58
+    },
+    {
+      "title": "Replace all voicings from file",
+      "page": 59
+    },
+    {
+      "title": "Creating Voicings",
+      "page": 60
+    },
+    {
+      "title": "ICC (Intersample Clipping Correction)",
+      "page": 61
+    },
+    {
+      "title": "Show RoomPerfect™ bypass",
+      "page": 62
+    },
+    {
+      "title": "Mute at power on if headphones are connected",
+      "page": 63
+    },
+    {
+      "title": "Main volume control / Headphones volume control",
+      "page": 64
+    },
+    {
+      "title": "Maximum volume",
+      "page": 65
+    },
+    {
+      "title": "Default volume",
+      "page": 66
+    },
+    {
+      "title": "What is CEC?",
+      "page": 67
+    },
+    {
+      "title": "Enable CEC",
+      "page": 68
+    },
+    {
+      "title": "Output Setup",
+      "page": 69
+    },
+    {
+      "title": "Spotify Connect",
+      "page": 70
+    },
+    {
+      "title": "Tidal Connect",
+      "page": 71
+    },
+    {
+      "title": "Qobuz Connect",
+      "page": 72
+    },
+    {
+      "title": "Roon",
+      "page": 73
+    },
+    {
+      "title": "UPnP",
+      "page": 74
+    },
+    {
+      "title": "USB storage",
+      "page": 75
+    },
+    {
+      "title": "airable",
+      "page": 76
+    },
+    {
+      "title": "AirPlay 2",
+      "page": 77
+    },
+    {
+      "title": "Bluetooth (BLE)",
+      "page": 78
+    },
+    {
+      "title": "Installing the USB streaming audio driver",
+      "page": 79
+    },
+    {
+      "title": "Using the USB B streaming audio input",
+      "page": 80
+    },
+    {
+      "title": "Playing MQA files",
+      "page": 81
+    },
+    {
+      "title": ".",
+      "page": 82
+    },
+    {
+      "title": "Power management",
+      "page": 83
+    },
+    {
+      "title": "Standby level",
+      "page": 84
+    },
+    {
+      "title": "Auto off delay",
+      "page": 85
+    },
+    {
+      "title": "Trigger input function",
+      "page": 86
+    },
+    {
+      "title": "Display settings",
+      "page": 87
+    },
+    {
+      "title": "Password",
+      "page": 88
+    },
+    {
+      "title": "Remote Control",
+      "page": 89
+    },
+    {
+      "title": "Show Status",
+      "page": 90
+    },
+    {
+      "title": "Wired Network Setup",
+      "page": 91
+    },
+    {
+      "title": "WI-FI (Wireless connection)",
+      "page": 92
+    },
+    {
+      "title": "WI-FI Setup Guide",
+      "page": 93
+    },
+    {
+      "title": "Apple Wi-Fi Accessory Configuration",
+      "page": 94
+    },
+    {
+      "title": "Enable WIFI",
+      "page": 95
+    },
+    {
+      "title": "Backup",
+      "page": 96
+    },
+    {
+      "title": "Restore",
+      "page": 97
+    },
+    {
+      "title": "Factory Reset",
+      "page": 98
+    },
+    {
+      "title": "Download system log",
+      "page": 99
+    },
+    {
+      "title": "Manage Software",
+      "page": 100
+    },
+    {
+      "title": "Retrieving and Sending an Error Log",
+      "page": 101
+    },
+    {
+      "title": "RoomPerfect™",
+      "page": 102
+    },
+    {
+      "title": "Error Messages",
+      "page": 103
+    },
+    {
+      "title": "Connecting to TDAI- 3400 with a Network Cable",
+      "page": 104
+    },
+    {
+      "title": "48",
+      "page": 105
+    }
+  ],
+  "sections": [
+    {
+      "title": "[Skriv tekst]",
+      "content": "LYNGDORF AUDIO TDAI- 3400",
+      "page": 1
+    },
+    {
+      "title": "OWNER’S",
+      "content": "",
+      "page": 2
+    },
+    {
+      "title": "MANUAL",
+      "content": "",
+      "page": 3
+    },
+    {
+      "title": "Table of Contents",
+      "content": "**Welcome**",
+      "page": 4
+    },
+    {
+      "title": "Congratulations on your purchase of the Lyngdorf TDAI- 3400 amplifier. The TDAI- 3400 will deliver",
+      "content": "",
+      "page": 5
+    },
+    {
+      "title": "an audio experience that will far exceed your expectations. We thank you for placing your",
+      "content": "",
+      "page": 6
+    },
+    {
+      "title": "confidence in Lyngdorf Audio.",
+      "content": "",
+      "page": 7
+    },
+    {
+      "title": "Please read all material carefully prior to installation. If you need additional assistance, contact",
+      "content": "",
+      "page": 8
+    },
+    {
+      "title": "your local Lyngdorf Audio representative first, or email contact@lyngdorf.com",
+      "content": "",
+      "page": 9
+    },
+    {
+      "title": "FAQs about the TDAI-3400, how-to videos, and in-depth information about the technologies used",
+      "content": "",
+      "page": 10
+    },
+    {
+      "title": "in Lyngdorf Audio products can be found on our website",
+      "content": "[http://www.lyngdorf.com](http://www.lyngdorf.com)\n\n\n**Compliance**",
+      "page": 11
+    },
+    {
+      "title": "WEEE",
+      "content": "The European Parliament and the Council of the European Union have issued the Waste Electrical and\nElectronic Equipment Directive. The purpose of the Directive is to prevent waste of electrical and\nelectronic equipment and to promote reuse, recycling, and other forms of waste recovery. Lyngdorf\nproducts and the accessories packed with them are subject to the WEEE Directive. Please dispose of\nany waste materials in accordance with your local recycling regulations. Products and equipment which\nmust be collected for reuse, recycling, and other forms of recovery are marked with the icon of the\ncrossed-out waste receptacle.",
+      "page": 12
+    },
+    {
+      "title": "FCC",
+      "content": "Lyngdorf products and accessories comply with parts 15 and 68 of the FCC rules. Operation is subject\nto the following two conditions: (1) this device may not cause harmful interference; and (2) this device\nmust accept any interference received, including any interference that may cause undesired operation.\n\nChanges or modifications not expressly approved by the party responsible for compliance could void\nthe user’s authority to operate the equipment. Equipment marketed to a consumer must can comply\nwith the necessary regulations in the configuration in which the equipment is marketed.\n\n\n**Pre-Installation**\n\nPlease read all material carefully prior to installation. If you need additional assistance, contact your\nLyngdorf Audio representative.",
+      "page": 13
+    },
+    {
+      "title": "Unpacking the Product",
+      "content": "Carefully remove the unit and accessory kit from the carton and check for shipping damage. Contact\nthe shipper and your Lyngdorf Audio representative immediately if the unit bears any sign of damage.\n\n**_Warning:_**\n\n```\nNever rest the TDAI-3400 on the front, as the volume wheel cannot handle the\nweight!\n```\n```\nKeep the shipping carton and all packing material for future use. If this unit is shipped\nwithout the original packing, damage could occur and void the warranty.\n```",
+      "page": 14
+    },
+    {
+      "title": "Inventory",
+      "content": "Check the list below to ensure that all necessary product components have been delivered. Report all\ndiscrepancies to your Lyngdorf Audio representative immediately.\n\n- Owner’s manual\n- Power cord\n- Remote\n- Microphone\n- Microphone stand\n- Microphone cable\n- Microphone adaptor (XLR to mini-jack)",
+      "page": 15
+    },
+    {
+      "title": "Operating Voltage",
+      "content": "Lyngdorf Audio products must be connected to the mains power. The TDAI- 3400 will not automatically\ndetect the voltage, so check and set the operating voltage on the switch next to the mains plug.",
+      "page": 16
+    },
+    {
+      "title": "Ventilation Requirements",
+      "content": "The TDAI- 3400 does not have a built-in fan, nor does it require special measures to ensure proper heat\ndissipation. It should be placed according to these guidelines:\n\n- It should always have at least one inch / 25mm of free space on all sides.\n- It should be placed in an environment free of excessive heat.\n\n\n**Home Automation System Integration**\n\nThe TDAI- 3400 is compatible with home automation systems via the RS232 and network connector on\nthe rear socket panel. The TDAI- 3400 ’s trigger connections can also be programmed for use in a home\nautomation system.",
+      "page": 17
+    },
+    {
+      "title": "IP Control",
+      "content": "Connect the TDAI- 3400 to your local network. Pressing the OK button on the remote and toggling\nthrough settings, the TDAI- 3400 will display the IP address allocated to the TDAI- 3400.\n\nOpen a TCP connection on port 84 and use the same protocol as on the serial interface. Use Telnet,\nPutty, or a similar program to open the TCP connection.",
+      "page": 18
+    },
+    {
+      "title": "Preparing the TDAI- 3400 for Mounting in a Rack",
+      "content": "The TDAI- 3400 processor is equipped from the factory with feet for free-standing placement, but a\nrackmount is available as optional accessories. (Accessory item number 900008101)\n\n\n**Front Panel**\n\nOn the front of the TDAI-3400, you will find the display, controls and connectors:\n\nLeft to Right:\nDisplay\nDial for changing source. Long push for entering the menu system\nWi-Fi and Bluetooth antennas\n1 x USB A media input and software update\n1 x Microphone input for RoomPerfectTM calibration\n1 x Headphone output\nDial for Volume Control\nStandby switch\n\n```\nDisplay advice:\nThe display can show further information, for example IP address, input format and\nsample rate of the incoming signal, and a peak level meter. Use the Info button on\nthe remote control to toggle through these options.\n```\n```\nThe display will show a blinking dot in the volume level number, in case the signal\nthrough the output stage is clipped. This indicates that your speakers are at risk for\noverload due to distortion.\n```\n\n**Rear Panel**\n\nOn the back of the TDAI- 3400 , you will find a range of input and output connectors:\n\nTop Row / Left to Right:\n\n- Optional Module with 1 x phono (MM), 2 x single ended, and 1 x balanced analog audio inputs\n- Optional Module with 1 x HDMI 2.1 TV output and 2 HDMI 2.1 inputs\n- Speaker Outputs\n\nLow Row / Left to Right\n\n- 2 x single ended analog audio inputs\n- 1 x single ended analog audio output\n- 1 x balanced analog audio output\n- 1 x USB B streaming audio input\n- 1 x AES/EBU digital audio input\n- 2 x coaxial digital audio inputs\n- 3 x optical digital audio inputs\n- 1 x coaxial digital audio output\n- 1 x USB A connector for music file playback, software updating, etc.\n- 1 x SD card slot for storing backup data /SD Card is included\n- 1 x RJ45 LAN connector for connection to local network\n- 1 x RS-232 connector for serial control of the unit\n- 1 x trigger input and 1 x trigger output\n- 1 x Main voltage connector with input voltage selector and mains switch\n\n```\nNote: USB ports require FAT32 formatted drives\n```\n\n**Remote Control**\n\nThe TDAI- 3400 comes with a dedicated remote control, which can operate both with radio frequencies\n(Bluetooth LFE) and infrared control (IR).\n\nDisplay Changes the read-out on the front display.\n\nTurn the TDAI-3400 on and into standby.\nInfo Reveals further information on the front display\nTrim Adjusts Balance and Bass / Treble levels.\nUp/Down Move up and down in menus.\nBrowse available settings in a menu.\nToggle between the available RoomPerfect™ filters.\nLeft/Right Move left and right in menus.\nToggle between neutral and the available voicings.\nSelect Select a menu and store a selected setting.\nBack/Exit Return to the previous menu.\nMenu Access the user menu.",
+      "page": 19
+    },
+    {
+      "title": "+/- Turn volume up and down.",
+      "content": "```\nMute and unmute the sound send to the headphones\n```\n```\nMute and unmute the sound in the speakers.\n```",
+      "page": 20
+    },
+    {
+      "title": "SRC +/- Toggle between activated sources.",
+      "content": "```\nPlay/pause the currently playing track in the media player.\nSkip in the current playlist in the media player.\n```\nNot used buttons and functions:\nGreen, Yellow, Red\nMusical Notes\nMic",
+      "page": 21
+    },
+    {
+      "title": "How to Pair Remote Control in Bluetooth Mode",
+      "content": "The TDAI-3400 remote has both an Infrared (IR) and Bluetooth (BT) mode, and the TDAI-3400 will\nautomatically connect to the remote control through Bluetooth. (the indicator on the remote lights up in\ngreen)\n\nIf Bluetooth operation is problematic for your setup, you can force the TDAI-3400 to use IR connection\nonly as follows:\n\n1. On the remote, simultaneously push and hold “Select” and “ 1 ”.\n2. Release the buttons when the red light starts blinking.\n\nReactivate the Bluetooth connectivity by using “Select” and “ 2 ”. The TDAI-3400 will now automatically\nconnect to the remote in Bluetooth mode, and when the remote is operated, the green light will appear.\n\n\n**Remote Control Application**\n\nFor Android and IOS based phones you will be able to download the Lyngdorf Remote application,\nwhich will allow you to handle the operation of your TDAI- 3400 – see below examples.\nAlternatively, the newer My Lyngdorf app can be used.\n\nSelect input, listening position and voicing directly, and see the signal\ninformation in the volume wheel, which you can operate like you\noperate the volume on the amplifier itself.\n\nTop left icon will access the connection settings for selecting the\nLyngdorf product to be controlled, and open for the web interface for\naccessing the setup. The “up” icon top left will open the interface\nfor the internal media player. The “power” icon top right will turn\nthe amplifier on or off.\n\nSelect input, listening position and voicing directly, and see the signal\ninformation in the volume wheel, which you can operate like you\noperate the volume on the amplifier itself. When using the internal\nmedia player album information will appear, when available.\n\n\nThe “settings” icon top left will access the connection settings\nfor selecting the Lyngdorf product to be controlled, and open for\nthe web interface for accessing the setup.\n\nThe “up” icon top left will open the interface for streaming\n\nmusic.\nThe “power” icon top right will turn the amplifier on or off.\n\nUsing the vTuner menu will allow you to play all radio stations\navailable on the internet.\n\nThrough the website you can save up to 10 stations as pre-sets,\nwhich are directly available from the input selector on the front or\nthrough the Lyngdorf Remote Application.\n\n\n**Discover the TDAI- 3400 setup page**\n\nWhen the TDAI- 3400 is connected to your local network you can connect to your TDAI- 3400 in different\nways:\n\nUse the Lyngdorf remote application to discover the device and enter the homepage. In the setup\nmenu, you will be able to find the network device address and a direct link to the setup page on your\ninternet browser.\n\nIf you do not want to install the Remote Control Application, you can type the following in a browser on\nany device on your network:\n\n**tdai 340 0.local**\n\nThe homepage will display all the operations, which are available through the Remote App as well as all\nsetup options available through the menu system of the TDAI-3400.\n\nThe interface for the media player is available in the bottom section. The advanced bass and treble\nadjustments are for the overall sound of your system. We will also draw your attention to the pre-\nequalization available in the output settings, which can be used to correct the sound prior to\nRoomPerfect™ calibration – and the Voicings available, which can be dedicated to specific sources,\nlike having more bass on Action Movies or decreasing high frequencies on noisy radio stations.\n\n\n**Initial Setup Procedure**\n\nSet up the TDAI- 3400 integrated amplifier by following these steps:\n\n1. Connect the speakers to the Speaker Output connectors.\n2. Connect all external equipment, audio and video, mains power, etc. to the TDAI- 3400.\n3. If possible, connect the TDAI-3400 to your local network with an ethernet cable.\n4. Switch on the mains switch on the back of the TDAI- 3400.\n    The TDAI-3400 will boot the internal computer and go into Stand-By.\n5. Switch on the TDAI- 3400.\n    The TDAI- 3400 will initially want to connect to your local network.\n    If connected by network cable (LAN) the TDAI-3400 will automatically connect and display the\n    IP network reference.",
+      "page": 22
+    },
+    {
+      "title": "For using iPhone or iPad:",
+      "content": "If no wired network is attached, the TDAI-3400 will want to connect via WIFI – referring to “Apple Wi-Fi\nAccessory Configuration”.\n\n1. Open the Wi-Fi settings on your iPhone/iPad – and you will find the TDAI-3400 under “Setup\n    New Airplay Speaker”.\n2. Change the device name of your TDAI-3400, press Next, and the TDAI-3400 will copy the Wi-\n    Fi settings from your phone",
+      "page": 23
+    },
+    {
+      "title": "For using Android phone or tablet:",
+      "content": "The TDAI-3400 will establish a soft access point. Type 192.168.110.42 in your browser to access the\nmanual Wi-Fi setup.\n\nWithout iPhone/iPad you can manually enter all data or use the WPS function to pair the TDAI- 3400\nwith your Wi-Fi router. (Select WPS and go and press the WPS button on your router)\n\nYou can now choose to continue the setup via the display or via web interface (see next page)\nAccess the speaker setup guide and verify your setup by selecting your speaker types\nSettings can be modified later under the Output Menu.\nAccess the RoomPerfect™ setup guide and calibrate your speaker setup. See later section.\n\nIf you at any point do not want to continue doing setup or calibration, then exit the menu by a long push\non the menu button. The TDAI-3400 will now have a basic stereo setup, and you can play music.\n\n\n      - November\n- Welcome\n- Compliance\n- Pre-Installation\n   - Unpacking the Product\n   - Inventory\n   - Operating Voltage\n   - Ventilation Requirements\n- Home Automation System Integration\n   - IP Control\n   - Preparing the TDAI-3400 for Mounting in a Rack\n- Front Panel\n- Rear Panel\n- Remote Control\n- Remote Control Application\n- Discover the TDAI-3400 setup page\n- Initial Setup Procedure\n   - For using iPhone or iPad:\n   - For using Android phone or tablet:\n- Menu Structure TDAI-\n- Home Screen / IP Interface\n- Input Setup\n   - Input name\n   - Enable input\n   - Enable theater mode\n   - Sensitivity\n   - Voicing\n   - Input delay (Lipsync offset)\n   - Preset radio stations\n- Output Setup\n   - Main out / main speakers\n   - Line out / sub speakers\n   - 2nd speaker setup\n   - Enable limiter\n   - Routing\n   - Level\n   - Eq\n   - Filter\n   - Filter Type\n   - Frequency (Hz)\n   - Verify speaker setup\n- Tips for setting up speakers\n- Introduction to RoomPerfect™\n- RoomPerfect™ Setup\n   - RoomPerfect™ Preparations\n   - Placing the Microphone in the Focus Position\n   - Volume Setting\n   - Measuring the Focus Position\n   - Measuring Random Room Positions\n   - Calculation of Focus and Global Filters\n- Voicing Setup\n   - Exporting and Importing Voicings\n   - Edit or delete voicing\n   - Add new voicing\n   - Replace all voicings from file\n   - Creating Voicings\n- Audio Setup\n   - ICC (Intersample Clipping Correction)\n   - Show RoomPerfect™ bypass\n   - Mute at power on if headphones are connected\n   - Main volume control / Headphones volume control\n   - Maximum volume\n   - Default volume\n- HDMI Setup (with optional HDMI module)\n- Streaming Setup\n- MQA\n- General Setup\n   - Power management\n   - Standby level\n   - Auto off delay\n   - Trigger input function\n   - Display settings\n   - Password\n   - Remote control\n- Network Setup\n   - Show Status\n   - Edit Wired setup\n   - WI-FI (Wireless connection)\n   - WI-FI Setup Guide\n   - Apple Wi-Fi Accessory Configuration\n   - Enable WIFI\n- Manage Software\n   - Backup\n   - Restore\n   - Factory Reset\n   - Download system log\n   - Update Software\n- Troubleshooting\n- Wired Network Setup\n- Cleaning and maintenance\n- Technical assistance\n- Menu Structure TDAI-\n\n\n**Home Screen / IP Interface**",
+      "page": 24
+    },
+    {
+      "title": "Installation and Operation via IP Interface",
+      "content": "With the TDAI-3400 connected to your local network, on the remote press INFO twice to reveal the IP\naddress allocated by the router. Open a browser and write the IP address to access the TDAI-3400.\nIf you are using an apple product you can also access the device by entering [http://tdai3400.local/](http://tdai3400.local/) in\nyour browser.\n\nAs default the TDAI-3400 will use a dynamic IP address. If you want to use a static IP address, you can\nset this at any time in the Network Setup menu.\n\nIf the TDAI-3400 is still in initial setup, you will be guided through the procedure just like on the display\noperation.\n\nThe HOME screen refers to the daily operation as performed with the remote control. The page\ndisplays selected input and formats and you can control the volume setting.\n\nThe HEADPHONES section can be accessed, when headphones are connected to the TDAI- 3400 on\nthe front panel connector. Here you can adjust volume settings and mute the output.\n\nThe SETUP section will be described in the following pages.\n\nThe interface for controlling the built-in media streamer is found in the bottom section of this page. For\ninformation about the use of the interface see section for Streaming Setup.\n\n```\nNote:\nOn your mobile device, the Home Screen page of your amplifier can be saved as an\nicon for swift access to operation of the TDAI-3400.\n```\n\n**Input Setup**\n\nIn the Input setup menu, you can adjust the settings for the signal coming from each input.",
+      "page": 25
+    },
+    {
+      "title": "Input Setup",
+      "content": "You can change the name to refer to the equipment connected to the input",
+      "page": 26
+    },
+    {
+      "title": "Enable input",
+      "content": "Enables and disables individual inputs so you do not have to scroll through unused inputs.",
+      "page": 27
+    },
+    {
+      "title": "Enable theater mode",
+      "content": "Turns the amplifier into a dedicated power amplifier for the source to this input. This mode bypasses the\nvolume control. A speaker icon will show up in the front display. This mode might be selected if you are\nusing the TDAI- 3400 in a home theater setup where it is used to power and calibrate the front speakers\nand/or subwoofer. Connect your home theater processor to the selected input. When selecting other\ninputs, the amplifier returns to the last used volume.\n\n```\nWarning:\nMaximum volume level. Do NOT test this mode with a CD player or similar\nunregulated signals! In this mode the TDAI- 3400 will get very hot, and good\nventilation is required!\n```",
+      "page": 28
+    },
+    {
+      "title": "Sensitivity",
+      "content": "Enables you to match the levels of other inputs. Can be adjusted up to +24dB.",
+      "page": 29
+    },
+    {
+      "title": "Voicing Setup",
+      "content": "Select the default Voicing. See later section for designing Voicings.",
+      "page": 30
+    },
+    {
+      "title": "Input delay (Lipsync offset)",
+      "content": "Set delay time in milliseconds to ensure that the video and audio signals are played back\nsimultaneously.",
+      "page": 31
+    },
+    {
+      "title": "Preset radio stations",
+      "content": "When selecting airable Internet radio stations for presets, they will automatically appear as inputs. (The\ninterface for controlling the built-in media streamer with airable is found in the bottom section of the\nHOME page)\n\n```\nNote:\nTo save changes, you must press “Save” after making changes to a single input. Do\nnot go to the next input before saving changes.\n```\n\n**Output Setup**\n\nThe output setup menu will display the\nrecommended filter settings from the\nselection of speakers and subwoofer\nfrom your initial Guided Speaker Setup.\nIn this section you can change the setup\nof speaker and line level outputs to your\npreferences.\n\nSelecting a Lyngdorf speaker will load\nan equalizing filter designed to optimize\nthe performance of this speaker in\nrelation to the selection of sub speaker\nselected. Selecting “Custom” will open\nnew settings allowing you to design your\nown equalizing filter.\n\nTo reveal all directly controlled features,\nselect “Custom” speakers and\n“Advanced” in the output setup.",
+      "page": 32
+    },
+    {
+      "title": "Main out / main speakers",
+      "content": "Select the speakers connected to the\nspeaker outputs of the TDAI- 3400 :\n\n- **Standard Stereo** : For a pair of\n    loudspeakers.\n- **Lyngdorf presets** : For a pair of\n    Lyngdorf loudspeakers, optimizing\n    their performance with pre-set sound\n    equalizing, crossover, and filters.\n- **None** : For using the TDAI-3400 as a\n    pre-amp when no loudspeakers are\n    connected.\n- **Custom** : For a pair of loudspeakers,\n    optimizing their performance with\n    different settings. The following\n    options can be set:\n\n\n**Full range** lets the signal pass unfiltered (full frequency bandwidth).\n**Crossover, High Pass Filter** removes the frequencies below the set crossover frequency.\n**Crossover, Low Pass Filter** removes the frequencies above the set crossover frequency.\n**Level** lowers the main output level relative to the line output level.\n**Eq** allows custom sound equalizing for the main speakers.\n**Distance** allows distance alignment (for example from the listening position to left and right speakers).\n\n```\nWARNINGS:\nThe speaker output channels cannot be used together in “Bridge Mode”.\nNever bridge the speaker outputs with another amplifier.\nNever connect the speaker outputs to the “High Level” inputs of a subwoofer.\nNever run the amplifier without speaker load unless main output is set to “None”.\n```",
+      "page": 33
+    },
+    {
+      "title": "Line out / sub speakers",
+      "content": "Select how the line outputs will be used. Analog and digital outputs can have their individual setup.\n\n- **None** : When analog or digital line outputs are not used (main loudspeakers only).\n- **Lyngdorf presets** : For using Lyngdorf woofer models, optimizing their performance with pre-set\n    sound equalizing, crossover, and filters, with the possibility to edit these settings.\n- **Advanced** : For using the analog or digital line outputs, for example when connecting subwoofers,\n    external amplifiers, headphone amplifiers, recording devices, external DACs or ADCs, or multiroom\n    systems. The following options can be set:\n\n**Off** when the analog output or the digital output is not used.\n**Full range** lets the signal pass unfiltered (full frequency bandwidth).\n**Crossover, High Pass Filter** removes the frequencies below the set crossover frequency.\n**Crossover, Low Pass Filter** removes the frequencies above the set crossover frequency.\n**Tape Out** bypasses RoomPerfectTM, Voicings, and volume level regulation.\n\n**Level** lowers the level of this output relative to the main speaker output.\n**Eq** allows custom sound equalizing for this output.\n**Mono** allows to set the signal to mono for this output.\n**Output level control** sets this output to either follow the main speaker’s volume level (Regulated) or to\nplay at full volume level, independent from the main speakers (Full Scale). **Warning** : Full Scale means\nmaximum output level, which can overload and damage the connected device or speaker.\n**Delay settings** allows distance alignment (for example from the listening position to the subwoofer) and\ntaking a signal delay into account (for example DSP latency of an external amplifier or subwoofer).",
+      "page": 34
+    },
+    {
+      "title": "2nd speaker setup",
+      "content": "Here you have the option to store a second speaker setup. This will allow you to test another setup or\nto store and keep two calibrated setups for general use – example: with and without a subwoofer.\n\nEnabling this will start the Guided Speaker Setup for the 2nd speaker setup. When complete, the menu\nitem Speaker Setup will be available in the main menu, allowing you to easily switch between the two\nsetups.",
+      "page": 35
+    },
+    {
+      "title": "Enable limiter",
+      "content": "Normally increasing the volume setting of any amplifier above the nominal specification will allow for\nhigher levels – just with higher distortion levels. Enabling the limiter will ensure that no matter the\noverall volume setting, the output stage of the TDAI- 3400 will never exceed specified distortion levels.",
+      "page": 36
+    },
+    {
+      "title": "Routing",
+      "content": "The available settings are:\n\n- Full range allows the signal to pass unfiltered.\n- Crossover will open for other menus for specifying the signal routing",
+      "page": 37
+    },
+    {
+      "title": "Level",
+      "content": "Reduce the signal level for this output with up to 24 dB to match the levels of other output channels.",
+      "page": 38
+    },
+    {
+      "title": "Eq",
+      "content": "Select any of the built-in equalizer filters or select “Custom” for designing your own filter to optimize the\nsound from your speakers. See the chapter Voicings, for input as to the design of filters.",
+      "page": 39
+    },
+    {
+      "title": "Filter",
+      "content": "Sets the type of crossover filter to be applied to this output\n\n- High pass: Removes the frequencies below the crossover frequency.\n- Low pass: Removes the frequencies above the crossover frequency.",
+      "page": 40
+    },
+    {
+      "title": "Filter Type",
+      "content": "Sets the type of crossover to be applied to this output\n\n- LR (Linkwitz Riley): 2nd, 4th or 8th order.\n- BW (Butterworth): 1st, 2nd or 4th order.\n\nThe references LR and BW refers to the inventors of these crossover designs. The filter order refers to\nhow steep the filter slopes are. This subject is too complicated to describe in detail in this manual. We\nrefer to external crossover filter literature for further information.",
+      "page": 41
+    },
+    {
+      "title": "Frequency (Hz)",
+      "content": "Sets the crossover point for the filter type selected. For traditional setups the frequency should be the\nsame for both Main and Line outputs.",
+      "page": 42
+    },
+    {
+      "title": "Verify speaker setup",
+      "content": "This function will send out a signal to each speaker for verifying the wiring against the chosen setup.\n\n\n**Tips for setting up speakers**",
+      "page": 43
+    },
+    {
+      "title": "Stereo triangle",
+      "content": "You can use the stereo triangle as a good rule of\nthumb when determining where to place your\nspeakers. The distance between the speakers\nshould be the same as the distance from your\nlistening position to both speakers.\n\nTip: You can reduce reflections from the hard floors\nand hard surface walls by positioning a carpet,\npainting, a bookshelf, or other furnishings between\nyou and the speakers. These objects act as\ndiffusers.\n\nFind the position of the diffusers by having someone hold a mirror flat against the wall or floor. When\nyou can see the speaker in the mirror from the listening position, you have found the optimal position for\nthe diffuser.",
+      "page": 44
+    },
+    {
+      "title": "Speaker placement / Traditional box speakers",
+      "content": "For an optimal listening experience with a RoomPerfect™ calibration,\nwe recommend placing your speakers against the wall, opposite from\nyour preferred listening position. This will ensure the wall reflection\nand the direct sound will reach your ears at the same time, giving you\nperfect timing. If your speakers have a bass-reflex port on the back,\nyou should allow for a 5cm/2in clearance to the back wall. This will\nensure the bass reflex port will still work as intended.",
+      "page": 45
+    },
+    {
+      "title": "Subwoofer placement",
+      "content": "With a single subwoofer, we recommend\nplacing the subwoofer against the wall\nbetween the main speakers.\n\nWith two subwoofers, you should position one\nin each front corner, in line with the main\nspeakers.\n\nNote: As the Phase, Cut-Off Frequency and Level is now controlled by the TDAI-3400, you should set\nthe controls of connected subwoofer(s) to neutral: Phase: 0. Cut-Off: Maximum. Level: 50% of\n\n\nmaximum. When connecting the Lyngdorf boundary woofers, you should connect the analog outputs to\nthe BYPASS input of the woofer.",
+      "page": 46
+    },
+    {
+      "title": "Measuring distances",
+      "content": "When measuring the distance to your main\nspeakers, measure from the preferred listening\nposition (the focus position) to the front of the\nspeakers.\n\nWhen measuring the distance to a subwoofer, measure from the preferred listening position to the back\ncorner of the subwoofer.\n\n```\nNote: Always perform a new RoomPerfect™ calibration when you have changed\nsettings in the Output setup.\n```\n\n**Introduction to RoomPerfect™**\n\nIt is very difficult to design a perfect listening environment with a symmetrical setup and a perfect\nreverberation time without vibrating surfaces like windows. A traditional setup of speakers requires\nuneven distances to back and side walls to avoid having the reflections arrive to the listening position at\nthe same time, as this would have a negative effect to the frequency response. Having strong\nreflections after each other is though causing smearing of the sound and reduces the overall dynamic\nperformance.\n\nRoomPerfect™ is designed to analyze and correct for the negative effects that the listening room has\non the speaker sound. Correcting the frequency response only, the setup of speakers should focus on\nhaving the optimal dynamic performance by positioning all speakers as close to the back wall as\npossible – and the sub(s) preferably into the front corners of the room\n\nOther correction systems will at their best offer a range of target curves for the calibration, whereas\nRoomPerfect™ will identify the sound properties of your speakers and use these for the calibration.\n\nRoomPerfect™ is therefore not just an equalizer, but in fact the only true room correction system.\n\n```\nIf you want to change the target curve (the tonal balance of your speakers) for the\ncalibration, you can enter your own pre-eq filter design under the Output Setup.\nThrough a new calibration process, RoomPerfect™ will then clean up the new tonal\nbalance.\n```",
+      "page": 47
+    },
+    {
+      "title": "Global filter",
+      "content": "The global filter improves sound quality across the whole room. When you are moving around a room,\nthe global filter gives the best result.",
+      "page": 48
+    },
+    {
+      "title": "Focus position",
+      "content": "The focus filter improves the sound quality at a specific listening position. This makes the focus filter the\nbest solution for optimal sound quality at a single listening position. A total of 8 focus positions can be\nstored after the initial calibration.\n\nSee our website [http://www.lyngdorf.com](http://www.lyngdorf.com) for more detailed information.\n\n\n**RoomPerfect™ Setup**\n\n```\nThe RoomPerfect™ microphone is a very sensitive and finely calibrated device which\nmust be treated with utmost care. If the microphone has been dropped on the floor, it\nmay be damaged. If this is the case, obtain a new microphone from your Lyngdorf\nAudio representative before performing the system calibration.\n```",
+      "page": 49
+    },
+    {
+      "title": "RoomPerfect™ Setup",
+      "content": "- Place the RoomPerfect™ calibration microphone on the stand. Be sure to fasten the screws\n    properly so the microphone does not move during a measurement.\n- Plug the supplied microphone cable into the microphone.\n- Connect the microphone cable to the TDAI-3400 using the included mini-jack connector.",
+      "page": 50
+    },
+    {
+      "title": "Placing the Microphone in the Focus Position",
+      "content": "When you place the microphone in the focus position,\nconnect the microphone to the microphone input on the\nfront of the TDAI- 3400 and place the microphone, using\nthe microphone stand, in your primary listening position.\nThe height and the orientation of the microphone should\ncorrespond to your head’s height and direction.",
+      "page": 51
+    },
+    {
+      "title": "Volume Setting",
+      "content": "Press Enter and a test signal will start from the left speaker. The system will give an estimated optimal\nvolume for calibrating the system or will accept the current volume. Adjust the volume if required by the\nsystem and retry the measurement.\n\nThe calibration volume should not be so loud that it is uncomfortable to you, or that it causes damage to\nyour loudspeakers. If this is the case, set it to a lower and more appropriate level. A low volume can\nresult in a longer calibration time or a measurement timeout. A low volume and long measurement will\nnot affect the quality of the result.\n\nIf the system continues to require higher signal level, the problem could be a defective adaptor, cable or\nmicrophone. Please contact your nearest Lyngdorf Audio representative.",
+      "page": 52
+    },
+    {
+      "title": "Measuring the Focus Position",
+      "content": "When the calibration volume has been set, RoomPerfect™ will send a range of pure tones to measure\nthe focus position. If there is noise in the room, the measurement may take longer. This will not affect\nthe quality of the result. See RoomPerfect™ troubleshooting if the measurement stops prematurely,\nand then retry the measurement.",
+      "page": 53
+    },
+    {
+      "title": "Measuring Random Room Positions",
+      "content": "When the focus position has been measured, the next step is to measure the acoustical properties of\nthe room. It is important to perform well spaced measurements to get a comprehensive image of the\nacoustical properties of the room. See RoomPerfect™ troubleshooting if the measurement stops\nprematurely.\n\nKeep taking measurements until Room Knowledge reaches 90%.\n\n```\nNote: Room Knowledge relates to the level of new information in the last\nmeasurement – if there is little new information, the system will translate it to the fact\nthat it knows nearly everything. When the Room Knowledge does NOT increase after\na measurement, it means that the measurement gave a lot of new information to the\ncalibration!\n```\nThese are the rules of thumb when measuring the room:\n\n- The microphone should be in random and varying positions, heights, and orientations.\n    Point it up/down/sideways – the more random positions the better.\n- The measurements should cover the primary listening area.\n- Do not take measurements behind plants, furniture, etc.\n\n_Side view of room_\n\n- The microphone should not be closer than 0.5m/1.5ft from the floor, ceiling, and walls.\n- The microphone should be at least 1m/3ft from the front of the loudspeakers.\n- There should be at least 50cm/1.5ft between each measurement.\n- Do not take symmetrical measurements in the room.\n\n\n_Top view of room_\n\nTo fully optimize the systems understanding of the room’s acoustical properties, we recommend you\nkeep doing measurements until the Room Knowledge is above 95%. The higher the Room Knowledge,\nthe more accurate the room correction filters will be.",
+      "page": 54
+    },
+    {
+      "title": "Calculation of Focus and Global Filters",
+      "content": "When room measurements are complete, the system will calculate the focus and global filters\nautomatically.\n\n```\nNotes:\n```\n```\nRoom Knowledge is calculated from the amount of NEW information is in the\nmeasurement compared to the data already stored. It is therefore the target to have\nas SLOW an increase in Room Knowledge as possible.\n```\n```\nWe recommend that you ALWAYS take a backup of TDAI-3400 settings after having\nperformed a RoomPerfect™ calibration (see Manage Software in the Setup section).\n```\n\n**Voicing Setup**\n\nA voicing is an equalizer filter that can be activated to amplify or attenuate certain frequencies\naccording to your personal preferences. For each Source you can dedicate a Voicing, meaning that\nyou can emphasize bass on one input without sacrificing neutrality on others.",
+      "page": 55
+    },
+    {
+      "title": "Exporting and Importing Voicings",
+      "content": "It is possible to download single voicings to a file and to add new voicings by uploading those files as\nwell. This will make it possible to copy a voicing from one device to another. The file format is identical\nfor all enabled Lyngdorf products, so if you have a voicing you like on your TDAI-3400 amplifier, it is\npossible to add that to your Lyngdorf multichannel processor or vice versa.\n\n```\nNote:\nSingle voicing files have the extension single_voicing.xml , and this must not be\nchanged.\n```\nYou can also download and upload an entire set of voicings. Again, these files will work throughout the\ndevices which support this feature.\n\n```\nNote:\nUploading a set of voicings with this feature will replace all voicings in the amplifier.\nFiles with an entire set of voicings have the extension .voicings.xml , and this must\nnot be changed.\n```",
+      "page": 56
+    },
+    {
+      "title": "Edit or delete voicing",
+      "content": "This dropdown list contains the voicings\ncurrently in the amplifier. Selecting a voicing in\nthe list will allow you to delete or edit the\nselected voicing (this will open the voicing\neditor)",
+      "page": 57
+    },
+    {
+      "title": "Add new voicing",
+      "content": "To create a new voicing using the voicing\neditor, enter the name of your new voicing and\npress add.\n\nTo add a voicing from a _.single_voicing.xml_ file,\nbrowse for the file and then Click “Add”.",
+      "page": 58
+    },
+    {
+      "title": "Replace all voicings from file",
+      "content": "This is the functionality to replace all voicings in the amplifier with a new set from a _.voicings.xml_ file.\nRemember that this will overwrite all voicings currently in the amplifier. Click “Browse” to find the\n_.voicings.xml_ file you wish to upload and then click “Apply” to use it.\nOn the bottom of the page is a link to download the current set of voicings in the amplifier to a\n_.voicings.xml_ file.\n\nThrough selecting any of the stored Voicings, you can see the details by selecting “Edit”. You can also\ndelete the stored Voicings and add new ones here.",
+      "page": 59
+    },
+    {
+      "title": "Creating Voicings",
+      "content": "A Voicing can combine up to eight filter sections. For each section, you can choose between certain\nfilter designs, which then in combination will give you the total correction of the Voicing.\nFor each Voicing you will see a green line showing the total correction as well a blue line showing the\ncorrection caused by the selected filter section. If there is only one active filter section, only the blue line\nis shown. You can select between following filter designs:\n\n- Low Pass: Functions as a crossover filter reducing the signal above the frequency.\n- High Pass: Functions as a crossover filter reducing the signal below the frequency.\n- Low Shelf: Attenuates the lower frequencies to a specified level.\n- High Shelf: Attenuates the higher frequencies to a specified level.\n- Parametric: Attenuates specific frequency.\n\nAll these filters can be with positive or negative gain – effectively reversing the effect of the filter.\n\nYou can adjust the Overall gain for each voicing in order to be able to switch between voicings without\nexperience any change in perceived level.\n\nIn this example (Action Movie Voicing) you will see the combined effect of two filter sections:\n\n- Negative High Shelf from 120 Hz –\n    creating a boost in the bass region\n- Negative High Shelf from 8,000 Hz\n    reducing the highest frequencies\n- Overall gain set to +6 dB as\n    compensation for the reduction in\n    overall level experienced with the\n    two filters.\n\nTry experimenting by creating your own\nVoicings and test the functionality of the\ndifferent filter sections.\n\n\n**Audio Setup**",
+      "page": 60
+    },
+    {
+      "title": "ICC (Intersample Clipping Correction)",
+      "content": "ICC can be set to enabled or disabled.\n\nDigital audio tracks can exceed 0 dBFS (decibels relative to full scale), meaning they will be clipped\nwhen being up sampled or otherwise processed in the audio chain resulting in distortion. With ICC\nenabled the TDAI-3400 will dynamically allow for extra headroom to avoid clipping during processing\nthe music. Changing inputs or going into standby mode will reset the ICC level.\n\n```\nHot tip:\nPress INFO on your remote to see the signal level of the present audio input. It is a\npeak-meter and will be reset, when you switch input.\n```",
+      "page": 61
+    },
+    {
+      "title": "Show RoomPerfect™ bypass",
+      "content": "If you want to discover what effect the calibration has had on your sound, you can activate a bypass\nfunction, which now can be selected on your remote control.",
+      "page": 62
+    },
+    {
+      "title": "Mute at power on if headphones are connected",
+      "content": "This function allows you to control, if the headphone connector should control the mute function on your\nspeakers.",
+      "page": 63
+    },
+    {
+      "title": "Main volume control / Headphones volume control",
+      "content": "These settings control the overall output through your main speaker system / headphone output",
+      "page": 64
+    },
+    {
+      "title": "Maximum volume",
+      "content": "The maximum volume setting is a safety precaution used for limiting the maximum volume which can\nbe achieved by spinning the wheel or increasing volume via the remote. This can be set to protect your\nloudspeakers against overload.",
+      "page": 65
+    },
+    {
+      "title": "Default volume",
+      "content": "The default volume setting controls the default volume at start-up.\n\n\n**HDMI Setup (with optional HDMI module)**",
+      "page": 66
+    },
+    {
+      "title": "What is CEC?",
+      "content": "Consumer Electronics Control (CEC) is an HDMI feature designed to allow you to command and control\nCEC-enabled devices that are connected through HDMI, by using only one of the remote controls (for\nexample, controlling the volume level in the TDAI-3400 by using the remote control of the TV).\n\nThe level of CEC implementation depends on the manufacturer of each product, and even if brand new,\nnot all electronic devices support CEC. As the television is “CEC master” in a HDMI setup, the CEC\nimplementation of the television will determine, what is possible for the entire system.",
+      "page": 67
+    },
+    {
+      "title": "Enable CEC",
+      "content": "Enables and disables CEC (Consumer Electronics Control) over HDMI.",
+      "page": 68
+    },
+    {
+      "title": "Output Setup",
+      "content": "When enabled, this feature will send the current digital stereo signal though the HDMI cable to the TV.\nThis feature requires that the digital output has been configured under the Output Setup menu. The\ndigital output should be set to Full-range and Full-scale.\n\n```\nNotes:\n```\n```\nAs default, CEC is not activated on HDMI to comply with stand-by power regulations.\nCEC functionality only works with the TDAI-3400 set in Network Stand-By.\n```\n```\nCEC is marketed by manufacturers under individual names and designed for\npromoting the connection of same brand sources. (SONY: Bravia Link, Panasonic:\nViera Link, etc.)\n```\n\n**Streaming Setup**\n\nThe TDAI-3400 can access radio stations from the internet, music files on your local network or on a\nFAT32 formatted USB drive or you can stream music to the TDAI-3400 from your mobile devices.\n\nIn this menu you can configure the basic setup of the music streaming:\n\n- Streaming players can control volume: Set to Off or On.\n- Streaming players can change input source: Set to Off or On.\n- Streaming players can power on the device from standby mode: Set to Off or On.\n\n**Streaming Playback**",
+      "page": 69
+    },
+    {
+      "title": "Spotify Connect",
+      "content": "Use your phone, tablet or computer as a remote control for Spotify. Go to spotify.com/connect to learn\nhow.\nThe Spotify Software is subject to third party licenses found here:\nhttps://developer.spotify.com/third-party-licenses#embedded-sdk-third-party-licenses",
+      "page": 70
+    },
+    {
+      "title": "Tidal Connect",
+      "content": "When the TDAI-2210 is connected to your local network, it will be available from your Tidal Connect\nenabled devices in the Tidal app (requires a Tidal account). To read more about Tidal services go to:\nhttps://tidal.com",
+      "page": 71
+    },
+    {
+      "title": "Qobuz Connect",
+      "content": "When the TDAI-2210 is connected to your local network, it will be available from your Qobuz Connect\nenabled devices in the Qobuz app (requires a Qobuz account).\nTo read more about Qobuz services go to:\nhttps://qobuz.com",
+      "page": 72
+    },
+    {
+      "title": "Roon",
+      "content": "Use your Roon control app to initiate streaming. To read more about Roon services go to:\nhttps://roonlabs.com.",
+      "page": 73
+    },
+    {
+      "title": "UPnP",
+      "content": "This function allows you to select and play music files in UPnP enabled libraries on your local network.\nYou might have problems in accessing files as UPnP a set of protocols and not a defined standard. The\nimplementation of UPnP is therefore not always fully functional for media playback.",
+      "page": 74
+    },
+    {
+      "title": "USB storage",
+      "content": "This function allows you to select and play music files on attached USB devices and flash memory\n(requires FAT32 format). Use the Storge input icon to access the folders.",
+      "page": 75
+    },
+    {
+      "title": "airable",
+      "content": "This function allows you to access internet radio stations and podcasts around the world. You can\nsearch stations and podcasts through references to genre or geographical relation. When a station or\npodcast is playing, you can assign it to one of the 10 presets. They will appear as a new input for direct\nselection.\nhttps://www.airablenow.com",
+      "page": 76
+    },
+    {
+      "title": "AirPlay 2",
+      "content": "The TDAI-2210 has native support for multi-room application under Apple AirPlay. Use your iOS device\nto initiate individual or simultaneous AirPlay streaming to all TDAI-2210 amplifiers in your setup.\nhttps://www.apple.com/airplay/",
+      "page": 77
+    },
+    {
+      "title": "Bluetooth (BLE)",
+      "content": "Select the Bluetooth input and the TDAI-2210 can be found in your other devices’ Bluetooth settings.\n\n**Streaming from PC or Mac**",
+      "page": 78
+    },
+    {
+      "title": "Installing the USB streaming audio driver",
+      "content": "To stream high quality audio from a Windows PC to the TDAI-3400, you need to install the Windows\ndriver on your PC. The driver can be found on the product page of [http://www.lyngdorf.com.](http://www.lyngdorf.com.) Mac and Linux\nusers do not need to install any drivers to stream audio to the TDAI-3400 in the optimal quality.",
+      "page": 79
+    },
+    {
+      "title": "Using the USB B streaming audio input",
+      "content": "To stream music to the TDAI-3400, connect a USB cable between the computer and the “USB Audio\nIn” connector of the TDAI-3400. Select “USB” as input on the TDAI-3400 and start playing music on\nyour computer.\n\n\n**MQA**",
+      "page": 80
+    },
+    {
+      "title": "Playing MQA files",
+      "content": "The TDAI-3400 includes MQA Core Decoder, which unfolds the MQA file once to deliver better than\nCD-quality. The first unfold recovers all the direct music-related information. Output is 88.2kHz or\n96kHz\n\nMQA (Master Quality Authenticated) is an award-winning British technology that delivers the sound of\nthe original master recording. The master MQA file is fully authenticated and is small enough to stream\nor download.\n\nMQA files can be played from USB, TIDAL, UPnP and Roon.\n\nIn the Streaming Player MQA will be indicated by the MQA logo, for example when using Tidal\nConnect:",
+      "page": 81
+    },
+    {
+      "title": ".",
+      "content": "**General Setup**",
+      "page": 82
+    },
+    {
+      "title": "Power management",
+      "content": "",
+      "page": 83
+    },
+    {
+      "title": "Standby level",
+      "content": "Network Standby will allow control systems to activate the TDAI-3400 through the network. Deep Sleep\nbrings the power consumption at stand-by to the required minimum, thus causing some delay in\nactivation of the amplifier.",
+      "page": 84
+    },
+    {
+      "title": "Auto off delay",
+      "content": "If you don’t press any buttons or audio isn ́t being played, this sets the idle time required for automatic\nshut-down of the amplifier.",
+      "page": 85
+    },
+    {
+      "title": "Trigger input function",
+      "content": "The trigger input can be used to activate the TDAI-3400 from a source.\nThe available settings are “Amp Power Mode” or a specific input.\n“Amp Power Mode” will start the TDAI-3400 on the input last used.\nAlways select specific input.\n\n```\nNote:\nIf the TDAI-3400 has been switched to another input, the trigger command from the\nsource connected will NOT turn off the amplifier.\n```",
+      "page": 86
+    },
+    {
+      "title": "Display settings",
+      "content": "- Brightness level: Set the brightness of the display.\n- Enable timeout: If enabled, the main display will switch off after 10 seconds of inactivity.",
+      "page": 87
+    },
+    {
+      "title": "Password",
+      "content": "Lock the menu system to avoid unintentional changes.\nUnlock the menu system by entering the code **7800**. When the code has been entered, and you exit the\nsetup menus, the menu lock will reactivate automatically after 5 minutes.",
+      "page": 88
+    },
+    {
+      "title": "Remote Control",
+      "content": "Activate or deactivate the remote control. This function is useful if you are using a home automation\nsystem and other remotes are using the same IR codes as the TDAI-3400 remote.\n\n\n**Network Setup**",
+      "page": 89
+    },
+    {
+      "title": "Show Status",
+      "content": "Shows IP address and as well as MAC address of the TDAI- 3400. Enter this IP address in a browser to\nsee the amplifiers setup menu.",
+      "page": 90
+    },
+    {
+      "title": "Wired Network Setup",
+      "content": "Shows Status and allows for setting a Static IP address instead of the default DHCP (Dynamic)\n(see later section as to setting up a static IP address).",
+      "page": 91
+    },
+    {
+      "title": "WI-FI (Wireless connection)",
+      "content": "Edits the WIFI Setup and allows for setting a Static IP address instead of the default DHCP (Dynamic).",
+      "page": 92
+    },
+    {
+      "title": "WI-FI Setup Guide",
+      "content": "This guide will allow you to connect to your wireless network through scanning networks, manually\nentering the reference of the network or using WPS (Wireless Protection Setup – activate and the press\nWPS button on your WIFI router!).",
+      "page": 93
+    },
+    {
+      "title": "Apple Wi-Fi Accessory Configuration",
+      "content": "With this function activated you can find the TDAI-3400 in the Wi-Fi settings of an iPhone or iPad\nconnected to the same network. From the iPhone or iPad you can now share the Wi-Fi settings to the\nTDAI-3400.",
+      "page": 94
+    },
+    {
+      "title": "Enable WIFI",
+      "content": "Enables and disables the WI-FI antenna in the amplifier.\n\n\n**Manage Software**\n\nFrom this main menu, you can access TDAI-3400 software information, backup, restore, etc.",
+      "page": 95
+    },
+    {
+      "title": "Backup",
+      "content": "Make a complete system backup to the SD card or a USB drive connected to one of the USB A\nconnectors. It will include all settings, the speaker setup and RoomPerfect™ calibration. When the\nbackup is complete, the TDAI-3400 will go into standby mode.",
+      "page": 96
+    },
+    {
+      "title": "Restore",
+      "content": "Restore the system from a backup stored on the SD Card or on a connected USB pen drive.",
+      "page": 97
+    },
+    {
+      "title": "Factory Reset",
+      "content": "Restore the system to the default factory settings.\nNote: All user preference settings, system data, and RoomPerfect™ data are lost when the TDAI- 3400\nis restored to the default settings.",
+      "page": 98
+    },
+    {
+      "title": "Download system log",
+      "content": "To be used when reporting on issues identified during use. A file with the system log will be stored on\nyour device. If you identify a problem, this system log file can be checked by Lyngdorf Audio. To\nproceed, please read the section Technical Assistance in this manual.",
+      "page": 99
+    },
+    {
+      "title": "Manage Software",
+      "content": "Shows reference information about the current software in the TDAI-3400 and shows new software if\navailable from the remote server.\n\n\n**Troubleshooting**",
+      "page": 100
+    },
+    {
+      "title": "Retrieving and Sending an Error Log",
+      "content": "To retrieve an error log, you need to access the TDAI-3400 via your browser. Here you can download a\nSystem Log and a Backup file. To proceed, please read the section Technical Assistance in this\nmanual.",
+      "page": 101
+    },
+    {
+      "title": "RoomPerfect™",
+      "content": "The calibration microphone is very sensitive and may pick up unwanted noise, including subsonic\nsignals and background noise, which disturbs the measurements. If the signal is disturbed, it will take\nlonger for the system to make a correct measurement.\n\nA measurement that has been disturbed by noise but completed will always be correct; it is not\nnecessary to redo it. If the measurement has stopped due to an error, one of the error messages below\nwill be shown.",
+      "page": 102
+    },
+    {
+      "title": "Error Messages",
+      "content": "**No microphone connected**\nNo microphone is connected, or the microphone cable is not working. Check that the microphone cable\nis connected to the microphone socket on the back panel. If the problem continues, test the microphone\ncable by connecting the microphone directly to the microphone socket and select Retry.\nIf the microphone is detected, replace the microphone cable and retry the measurement.\n\n**Fault – No signal**\nThis error message can arise due to a signal classification of no sound. This happens if the sound\nvolume has been muted or a cable is disconnected.\n\n- Check the sound volume.\n- Check all cable connections, including interconnects, speakers, amplifiers, etc.\n- Check the measuring signal volume.\nIf none of these measures solve the error, contact your nearest Lyngdorf Audio representative or\nLyngdorf Audio for a replacement microphone.\n\n**Fault – Signal clipping**\nEither the incoming signal has been classified as too loud, resulting in clipping or distortion, or a loud\nnoise in the immediate environment has corrupted the measurement results. If a loud noise has in fact\noccurred, such as the sound of a closing door, reduce noise levels inside and in the immediate vicinity\nof the room and repeat the measurement. If no loud noise has occurred, reduce the volume of the\nsignal and repeat the measurement.\n\n\n**Fault – Low signal**\nThis error message is displayed when the measurement has lasted more than 5 minutes for the low-\nfrequency signal or more than 2 minutes for the high-frequency signal. This happens most often when\nusing a low-level measuring signal compared to the background noise in the listening environment,\nwhich results in prolonged measuring times. Raise the measuring signal volume or reduce the noise in\nthe environment before continuing with the measurement.\n\n**Can ́t Turn On Via LAN or Control System**\nThe TDAI- 3400 needs to be set to Network Standby to be able to turn on via a control system. It will not\nturn on when in Deep Sleep. This is controlled in the General Setup menu.\n\n**3D/4K/HDR Compatibility Not Detected**\nIf the TDAI- 3400 has not finished the start-up, a Blu-ray player will not be able to detect its compatibility.\nRestart the player to fix the problem.\n\n\n**Wired Network Setup**",
+      "page": 103
+    },
+    {
+      "title": "Connecting to TDAI- 3400 with a Network Cable",
+      "content": "It is possible to get access to the TDAI- 3400 ́s web interface via a direct cable connection between the\nTDAI- 3400 and a computer, or a connection via a hub or switch.\n\nIf you have a direct cable connection to a laptop (with no switch or router between the two) the network\ncable must be a crossover type. Furthermore, the Mode option in the Network Setup menu must be set\nto Manual IP. Finally, you must manually set an IP address on the computer you intend to use for\nsetting up the TDAI- 3400.\n\n**Set Up a Fixed IP Address in Windows 7**\n\n1. Click Start / Control Panel / Network Connections to find the network connection that\n    represents your connection to the Internet. Most often, this is labeled simply Local Area\n    Connection.\n2. Right-click the connection and select “Properties”.\n3. Click “Internet Protocol (TCP/IP)” in the list (you may have to scroll down the list to find it).\n4. Click “Properties”.\n5. Most default configurations will have both “Obtain an IP address” and “Obtain DNS server\n    address” automatically selected by default.\n6. Click “Use the following IP address” and enter the following:\n    IP address: 192.168.1.2\n    Subnet mask: 255.255.255.0\n    Default gateway: 192.168.1.1\n\n\n7. Click OK to close the configuration windows, and you\n    should now be able to access the TDAI- 3400 via your\n    Internet browser.\n\n**Set Up a Fixed IP Address in Windows Vista or Windows 10**\n\n1. In Windows Vista, click Start / Control Panel / Select Network and Internet / Network and\n    Sharing Center.\n2. In Windows 10, right-click Start, then select “Control Panel”. Select Network and Internet /\n    Network and Sharing Center.\n3. Click “Manage Network Connections” in the list of tasks.\n4. Right-click your local area connection and click “Properties”.\n5. Select “Internet Protocol (TCP/IP)” from the list\n6. Click the “Properties” button.\n7. Click “Use the following IP address” and enter the following:\n    IP address: 192.168.1.2\n    Subnet mask: 255.255.255.0\n    Default gateway: 192.168.1.1\n8. Click OK to close the configuration windows, and you should now be able to access the TDAI-\n    3400 via your Internet browser.\n\n\n**Cleaning and maintenance**\n\nThe TDAI- 3400 does not require any regular maintenance except to keep its exterior clean. Simply wipe\nit with a clean, soft cloth. A small amount of non-abrasive cleaner may be used on the cloth to remove\nany dirt or fingerprints. Do not use abrasive cleaners or cleaners containing liquid solvents.\n\n**Serial Control Manual**\n\nA copy of the Serial Control Manual, describing how the serial control interface of the device works, can\nbe downloaded from [http://www.lyngdorf.com](http://www.lyngdorf.com)\n\n\n**Technical assistance**\n\nIf you have any questions regarding your Lyngdorf product, please contact your nearest Lyngdorf\nrepresentative. To find the nearest Lyngdorf representative or for finding the latest version of this\nmanual, please check the Lyngdorf website: [http://www.lyngdorf.com](http://www.lyngdorf.com)\n\nPour toute question concernant votre produit Lyngdorf, veuillez contacter votre représentant Lyngdorf.\nPour trouver votre représentant ou obtenir la version la plus récente du présent manuel, consultez le\nsite Internet de Lyngdorf à l’adresse suivante: [http://www.lyngdorf.com.](http://www.lyngdorf.com.)\n\nFalls Sie Fragen zu Ihrem Produkt von Lyngdorf haben, wenn Sie sich bitte an Ihre nächste Lyngdorf\nVertretung. Die Vertretung und die neueste Version dieser Bedingungsanleitung finden Sie auf der\nInternetseite von Lyngdorf: [http://www.lyngdorf.com](http://www.lyngdorf.com)\n\nHvis du har spørgsmål til dit Lyngdorf produkt, bedes du kontakte den nærmeste Lyngdorf forhandler.\nDen nærmeste Lyngdorf forhandler og den seneste version af denne vejledning, kan du finde på vores\nhjemmeside: [http://www.lyngdorf.com](http://www.lyngdorf.com)\n\nIf you have any problems with or questions regarding your Lyngdorf Audio product, please contact your\nnearest Lyngdorf Audio representative or:\n\nSL Audio A/S\nRævevej 3, 7800 Skive, Denmark\nE-mail: contact@lyngdorf.com\nWeb: [http://www.lyngdorf.com](http://www.lyngdorf.com)",
+      "page": 104
+    },
+    {
+      "title": "48",
+      "content": "SL AUDIO A/S • RÆVEVEJ 3 • 7800 SKIVE • DENMARK • WWW.STEINWAYLYNGDORF.COM",
+      "page": 105
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 import { z } from 'zod';
 
 // Device types
-export type DeviceModel = 'TDAI-1120' | 'TDAI-2170' | 'TDAI-3400' | 'MP-40' | 'MP-50' | 'MP-60' | 'CD-1' | 'Unknown';
+export type DeviceModel = 'TDAI-1120' | 'TDAI-2170' | 'TDAI-2190' | 'TDAI-2210' | 'TDAI-3400' | 'MP-40' | 'MP-50' | 'MP-60' | 'CD-1' | 'Unknown';
 
 export interface LyngdorfDevice {
   model: DeviceModel;
@@ -22,7 +22,7 @@ export interface DeviceStatus {
 }
 
 // Command schemas for validation
-export const VolumeSchema = z.number().min(-999).max(120);
+export const VolumeSchema = z.number().min(-99.9).max(12.0);
 export const SourceSchema = z.number().int().min(0);
 export const RoomPerfectFocusSchema = z.number().int().min(1).max(8);
 export const VoicingSchema = z.number().int().min(0);
@@ -30,7 +30,7 @@ export const FeedbackLevelSchema = z.number().int().min(0).max(2);
 
 // Tool input schemas
 export const SetVolumeInput = z.object({
-  level: VolumeSchema.describe('Volume level in dB (-999 to 120)')
+  level: VolumeSchema.describe('Volume level in dB (-99.9 to 12.0)')
 });
 
 export const VolumeStepInput = z.object({
@@ -50,8 +50,16 @@ export const SetVoicingInput = z.object({
 });
 
 export const DiscoverDevicesInput = z.object({
-  timeout: z.number().int().positive().default(3000).describe('Discovery timeout in ms (default: 3000)')
+  timeout: z.number().optional().describe('Discovery timeout in milliseconds (default: 3000)')
 });
+
+export type DiscoverDevicesInput = z.infer<typeof DiscoverDevicesInput>;
+
+// Volume safety configuration
+export interface VolumeConfig {
+  warningThreshold: number;  // dB level that triggers warning (default: -15)
+  hardLimit: number;          // dB level that cannot be exceeded (default: -10)
+}
 
 // Response format
 export interface CommandResponse {

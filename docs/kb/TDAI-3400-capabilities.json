@@ -1,0 +1,22 @@
+{
+    "model": "TDAI-3400",
+    "capabilities": {
+        "volume": true,
+        "mute": true,
+        "sources": true,
+        "roomperfect": true,
+        "voicing": true,
+        "toneControls": true,
+        "bassControl": true,
+        "trebleControl": true,
+        "balanceControl": true,
+        "playback": true,
+        "streaming": true,
+        "streamTypeDetection": true
+    },
+    "volumeRange": {
+        "min": -999,
+        "max": 120
+    },
+    "notes": "TDAI-3400 is the flagship model with full streaming capabilities, web interface, and comprehensive control protocol support including Headphone (!HP) and Speaker Setup (!SPEAKER) controls."
+}

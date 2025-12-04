@@ -32,10 +32,11 @@ describe('LyngdorfTransport', () => {
       expect(transport.parseSourceResponse('invalid')).toBeNull();
     });
 
-    it('parses RoomPerfect response correctly', () => {
-      expect(transport.parseRoomPerfectResponse('!RPFOC(1)')).toBe('Focus 1');
-      expect(transport.parseRoomPerfectResponse('!RPFOC(8)')).toBe('Focus 8');
-      expect(transport.parseRoomPerfectResponse('!RPGLOB')).toBe('Global');
+    it('should parse RoomPerfect response correctly', () => {
+      expect(transport.parseRoomPerfectResponse('!RP(0)')).toBe('Bypass');
+      expect(transport.parseRoomPerfectResponse('!RP(1)')).toBe('Focus 1');
+      expect(transport.parseRoomPerfectResponse('!RP(8)')).toBe('Focus 8');
+      expect(transport.parseRoomPerfectResponse('!RP(9)')).toBe('Global');
       expect(transport.parseRoomPerfectResponse('invalid')).toBeNull();
     });
 

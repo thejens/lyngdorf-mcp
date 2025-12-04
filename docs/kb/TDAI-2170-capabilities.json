@@ -1,0 +1,22 @@
+{
+    "model": "TDAI-2170",
+    "capabilities": {
+        "volume": true,
+        "mute": true,
+        "sources": true,
+        "roomperfect": true,
+        "voicing": true,
+        "toneControls": false,
+        "bassControl": false,
+        "trebleControl": false,
+        "balanceControl": false,
+        "playback": false,
+        "streaming": false,
+        "streamTypeDetection": false
+    },
+    "volumeRange": {
+        "min": -999,
+        "max": 120
+    },
+    "notes": "TDAI-2170 is an integrated amplifier without built-in streaming. It does NOT support direct Bass/Treble/Balance commands; sound shaping is done via Voicings (!VOI). Streaming requires optional USB module."
+}
