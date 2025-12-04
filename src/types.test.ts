@@ -4,15 +4,15 @@ import { VolumeSchema, SourceSchema, RoomPerfectFocusSchema, VoicingSchema } fro
 describe('Types and Schemas', () => {
   describe('VolumeSchema', () => {
     it('accepts valid volume values', () => {
-      expect(() => VolumeSchema.parse(-999)).not.toThrow();
+      expect(() => VolumeSchema.parse(-99.9)).not.toThrow();
       expect(() => VolumeSchema.parse(0)).not.toThrow();
-      expect(() => VolumeSchema.parse(120)).not.toThrow();
+      expect(() => VolumeSchema.parse(12.0)).not.toThrow();
       expect(() => VolumeSchema.parse(-30.5)).not.toThrow();
     });
 
     it('rejects invalid volume values', () => {
-      expect(() => VolumeSchema.parse(-1000)).toThrow();
-      expect(() => VolumeSchema.parse(121)).toThrow();
+      expect(() => VolumeSchema.parse(-100)).toThrow();
+      expect(() => VolumeSchema.parse(12.1)).toThrow();
       expect(() => VolumeSchema.parse('invalid')).toThrow();
     });
   });

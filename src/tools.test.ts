@@ -128,7 +128,8 @@ describe('Tools', () => {
           if (cmd === '!VOL?') return Promise.resolve('!VOL(-300)'); // Current volume -30dB
           return Promise.resolve('OK');
         }),
-        parseVolumeResponse: vi.fn().mockReturnValue(-30)
+        sendCommandNoResponse: vi.fn().mockResolvedValue(undefined),
+        parseVolumeResponse: vi.fn().mockReturnValue(-300)
       } as any;
 
       // Recreate tools with the mock transport
@@ -153,8 +154,11 @@ describe('Tools', () => {
         isConnected: () => true,
         sendCommand: vi.fn().mockImplementation((cmd: string) => {
           if (cmd === '!PWR?') return Promise.resolve('!PWR(ON)');
-          return Promise.resolve('!VOL(-30)');
-        })
+          if (cmd === '!VOL?') return Promise.resolve('!VOL(-300)');
+          return Promise.resolve('OK');
+        }),
+        sendCommandNoResponse: vi.fn().mockResolvedValue(undefined),
+        parseVolumeResponse: vi.fn().mockReturnValue(-300)
       } as any;
 
       // Recreate tools with the mock transport
