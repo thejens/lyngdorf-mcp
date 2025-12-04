@@ -1,0 +1,51 @@
+# Source files (only publish dist/)
+src/
+*.ts
+!*.d.ts
+
+# Exclude test files from dist/
+dist/**/*.test.js
+dist/**/*.test.d.ts
+dist/**/*.test.js.map
+dist/**/*.test.d.ts.map
+
+# Tests
+*.test.js
+*.test.ts
+*.spec.js
+*.spec.ts
+__tests__/
+coverage/
+
+# Development files
+.env
+.env.*
+!.env.example
+tsconfig.json
+vitest.config.ts
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+.github/
+
+# Build artifacts
+node_modules/
+npm-debug.log*
+*.log
+
+# Other
+*.tmp
+.cache/
+PUBLISHING.md

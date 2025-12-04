@@ -32,8 +32,20 @@ The server includes specific capability profiles for:
 
 ### Prerequisites
 
-- Node.js 18+
+- Node.js 22+
 - npm or yarn
+
+### Install from npm
+
+```bash
+npm install -g lyngdorf-mcp
+```
+
+Or use npx without installing:
+
+```bash
+npx lyngdorf-mcp
+```
 
 ### Install from Source
 
@@ -53,6 +65,25 @@ Add to your Claude Desktop configuration:
 
 **macOS**: `~/Library/Application Support/Claude/claude_desktop_config.json`
 **Windows**: `%APPDATA%\Claude\claude_desktop_config.json`
+
+#### Using npm package (recommended):
+
+```json
+{
+  "mcpServers": {
+    "lyngdorf": {
+      "command": "npx",
+      "args": ["lyngdorf-mcp"],
+      "env": {
+        "VOLUME_WARNING_THRESHOLD": "-20",
+        "VOLUME_HARD_LIMIT": "-10"
+      }
+    }
+  }
+}
+```
+
+#### Using local installation:
 
 ```json
 {
